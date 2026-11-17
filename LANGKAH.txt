@@ -1,0 +1,28 @@
+LANGKAH MENJALANKAN (aol_v2)
+ 
+Jalankan dari dalam folder aol_v2.
+ 
+1. Pasang paket (sekali saja):
+   pip install numpy vosk sounddevice soundfile pyttsx3
+   pip install numba          (opsional, mempercepat DTW)
+ 
+2. Jalankan aplikasi:
+   python app.py
+ 
+File yang dibutuhkan aplikasi:
+   app.py, penilai.py, mfcc.py, dtw_knn.py, scorer.py,
+   folder model/, models/scorer_clean+noise.pkl
+ 
+Kalau menambah atau mengganti rekaman dataset:
+ 
+3. Rekam (per speaker):
+   python record.py --speaker NAMA --condition clean
+   python record.py --speaker NAMA --condition noise
+   python record.py --speaker NAMA --condition other --reps 2
+ 
+4. Cek kualitas rekaman:
+   python cek_kualitas.py --speaker NAMA --cond noise
+ 
+5. Latih ulang scorer:
+   python train_scorer.py --conds clean,noise --k 20
+ 

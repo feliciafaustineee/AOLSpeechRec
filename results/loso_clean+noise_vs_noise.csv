@@ -1,0 +1,271 @@
+held_speaker,file,condition,true,pred,dist,correct,S,D,I,N
+earlene,01_earlene_noise_01.wav,noise,Please pay with cash,Please pay with cash,1.9657,1,0,0,0,4
+earlene,02_earlene_noise_01.wav,noise,Please pay with card,Please pay with card,2.046,1,0,0,0,4
+earlene,03_earlene_noise_01.wav,noise,Please scan the QR code,Please pay with card,2.0967,0,3,1,0,5
+earlene,04_earlene_noise_01.wav,noise,I don't have that,Sold out,2.2967,0,2,2,0,4
+earlene,05_earlene_noise_01.wav,noise,Sold out,__OTHER__,2.0476,0,1,1,0,2
+earlene,06_earlene_noise_01.wav,noise,How much is this?,How much is this?,2.0318,1,0,0,0,4
+earlene,07_earlene_noise_01.wav,noise,Thank you very much,Please pay with cash,2.2105,0,4,0,0,4
+earlene,08_earlene_noise_01.wav,noise,Please wait a moment,Please wait a moment,1.9854,1,0,0,0,4
+earlene,09_earlene_noise_01.wav,noise,Do you need a bag?,Do you need a bag?,2.1424,1,0,0,0,5
+earlene,10_earlene_noise_01.wav,noise,Here is your change,Here is your change,1.9493,1,0,0,0,4
+earlene,01_earlene_noise_02.wav,noise,Please pay with cash,Please pay with cash,2.1414,1,0,0,0,4
+earlene,02_earlene_noise_02.wav,noise,Please pay with card,Please wait a moment,2.0994,0,3,0,0,4
+earlene,03_earlene_noise_02.wav,noise,Please scan the QR code,Sold out,2.1953,0,2,3,0,5
+earlene,04_earlene_noise_02.wav,noise,I don't have that,I don't have that,2.1381,1,0,0,0,4
+earlene,05_earlene_noise_02.wav,noise,Sold out,Sold out,1.9176,1,0,0,0,2
+earlene,06_earlene_noise_02.wav,noise,How much is this?,How much is this?,2.1028,1,0,0,0,4
+earlene,07_earlene_noise_02.wav,noise,Thank you very much,Thank you very much,2.0385,1,0,0,0,4
+earlene,08_earlene_noise_02.wav,noise,Please wait a moment,Please wait a moment,1.9815,1,0,0,0,4
+earlene,09_earlene_noise_02.wav,noise,Do you need a bag?,Do you need a bag?,2.2134,1,0,0,0,5
+earlene,10_earlene_noise_02.wav,noise,Here is your change,Here is your change,1.9523,1,0,0,0,4
+earlene,01_earlene_noise_03.wav,noise,Please pay with cash,Please pay with cash,1.9918,1,0,0,0,4
+earlene,02_earlene_noise_03.wav,noise,Please pay with card,Please pay with card,2.0076,1,0,0,0,4
+earlene,03_earlene_noise_03.wav,noise,Please scan the QR code,Please scan the QR code,2.2453,1,0,0,0,5
+earlene,04_earlene_noise_03.wav,noise,I don't have that,I don't have that,2.0404,1,0,0,0,4
+earlene,05_earlene_noise_03.wav,noise,Sold out,Sold out,1.8161,1,0,0,0,2
+earlene,06_earlene_noise_03.wav,noise,How much is this?,How much is this?,1.8396,1,0,0,0,4
+earlene,07_earlene_noise_03.wav,noise,Thank you very much,Thank you very much,2.017,1,0,0,0,4
+earlene,08_earlene_noise_03.wav,noise,Please wait a moment,Please wait a moment,2.1839,1,0,0,0,4
+earlene,09_earlene_noise_03.wav,noise,Do you need a bag?,Do you need a bag?,2.0763,1,0,0,0,5
+earlene,10_earlene_noise_03.wav,noise,Here is your change,Here is your change,1.9207,1,0,0,0,4
+earlene,01_earlene_noise_04.wav,noise,Please pay with cash,Please pay with cash,1.9887,1,0,0,0,4
+earlene,02_earlene_noise_04.wav,noise,Please pay with card,Please pay with card,2.2037,1,0,0,0,4
+earlene,03_earlene_noise_04.wav,noise,Please scan the QR code,Please scan the QR code,1.93,1,0,0,0,5
+earlene,04_earlene_noise_04.wav,noise,I don't have that,I don't have that,2.0419,1,0,0,0,4
+earlene,05_earlene_noise_04.wav,noise,Sold out,Sold out,1.7167,1,0,0,0,2
+earlene,06_earlene_noise_04.wav,noise,How much is this?,How much is this?,2.0119,1,0,0,0,4
+earlene,07_earlene_noise_04.wav,noise,Thank you very much,Thank you very much,1.9542,1,0,0,0,4
+earlene,08_earlene_noise_04.wav,noise,Please wait a moment,Please wait a moment,2.2983,1,0,0,0,4
+earlene,09_earlene_noise_04.wav,noise,Do you need a bag?,Do you need a bag?,2.1994,1,0,0,0,5
+earlene,10_earlene_noise_04.wav,noise,Here is your change,Here is your change,1.9648,1,0,0,0,4
+earlene,01_earlene_noise_05.wav,noise,Please pay with cash,Please pay with cash,1.9209,1,0,0,0,4
+earlene,02_earlene_noise_05.wav,noise,Please pay with card,Please pay with card,2.093,1,0,0,0,4
+earlene,03_earlene_noise_05.wav,noise,Please scan the QR code,Please wait a moment,2.1923,0,3,1,0,5
+earlene,04_earlene_noise_05.wav,noise,I don't have that,I don't have that,2.0751,1,0,0,0,4
+earlene,05_earlene_noise_05.wav,noise,Sold out,Sold out,2.0276,1,0,0,0,2
+earlene,06_earlene_noise_05.wav,noise,How much is this?,How much is this?,2.0397,1,0,0,0,4
+earlene,07_earlene_noise_05.wav,noise,Thank you very much,Thank you very much,2.1106,1,0,0,0,4
+earlene,08_earlene_noise_05.wav,noise,Please wait a moment,Please wait a moment,1.9794,1,0,0,0,4
+earlene,09_earlene_noise_05.wav,noise,Do you need a bag?,Do you need a bag?,2.1507,1,0,0,0,5
+earlene,10_earlene_noise_05.wav,noise,Here is your change,Here is your change,1.9539,1,0,0,0,4
+earlene,01_earlene_noise_06.wav,noise,Please pay with cash,Please pay with cash,2.0834,1,0,0,0,4
+earlene,02_earlene_noise_06.wav,noise,Please pay with card,Please pay with card,1.9654,1,0,0,0,4
+earlene,03_earlene_noise_06.wav,noise,Please scan the QR code,Please scan the QR code,1.9232,1,0,0,0,5
+earlene,04_earlene_noise_06.wav,noise,I don't have that,I don't have that,2.0313,1,0,0,0,4
+earlene,05_earlene_noise_06.wav,noise,Sold out,Sold out,1.8114,1,0,0,0,2
+earlene,06_earlene_noise_06.wav,noise,How much is this?,How much is this?,1.9365,1,0,0,0,4
+earlene,07_earlene_noise_06.wav,noise,Thank you very much,Thank you very much,1.9397,1,0,0,0,4
+earlene,08_earlene_noise_06.wav,noise,Please wait a moment,Please wait a moment,1.9576,1,0,0,0,4
+earlene,09_earlene_noise_06.wav,noise,Do you need a bag?,Do you need a bag?,2.1639,1,0,0,0,5
+earlene,10_earlene_noise_06.wav,noise,Here is your change,Here is your change,1.9697,1,0,0,0,4
+earlene,01_earlene_noise_07.wav,noise,Please pay with cash,Please pay with cash,1.9608,1,0,0,0,4
+earlene,02_earlene_noise_07.wav,noise,Please pay with card,Please pay with card,2.0457,1,0,0,0,4
+earlene,03_earlene_noise_07.wav,noise,Please scan the QR code,Please scan the QR code,2.2998,1,0,0,0,5
+earlene,04_earlene_noise_07.wav,noise,I don't have that,I don't have that,2.0886,1,0,0,0,4
+earlene,05_earlene_noise_07.wav,noise,Sold out,Sold out,1.8359,1,0,0,0,2
+earlene,06_earlene_noise_07.wav,noise,How much is this?,How much is this?,1.8637,1,0,0,0,4
+earlene,07_earlene_noise_07.wav,noise,Thank you very much,Thank you very much,1.9414,1,0,0,0,4
+earlene,08_earlene_noise_07.wav,noise,Please wait a moment,Please wait a moment,2.1757,1,0,0,0,4
+earlene,09_earlene_noise_07.wav,noise,Do you need a bag?,Do you need a bag?,2.2208,1,0,0,0,5
+earlene,10_earlene_noise_07.wav,noise,Here is your change,Here is your change,1.9599,1,0,0,0,4
+earlene,01_earlene_noise_08.wav,noise,Please pay with cash,Please pay with cash,1.9436,1,0,0,0,4
+earlene,02_earlene_noise_08.wav,noise,Please pay with card,Please pay with card,2.1497,1,0,0,0,4
+earlene,03_earlene_noise_08.wav,noise,Please scan the QR code,Please scan the QR code,1.958,1,0,0,0,5
+earlene,04_earlene_noise_08.wav,noise,I don't have that,I don't have that,2.0927,1,0,0,0,4
+earlene,05_earlene_noise_08.wav,noise,Sold out,Sold out,1.9707,1,0,0,0,2
+earlene,06_earlene_noise_08.wav,noise,How much is this?,How much is this?,1.919,1,0,0,0,4
+earlene,07_earlene_noise_08.wav,noise,Thank you very much,Thank you very much,1.9777,1,0,0,0,4
+earlene,08_earlene_noise_08.wav,noise,Please wait a moment,Please wait a moment,1.9583,1,0,0,0,4
+earlene,09_earlene_noise_08.wav,noise,Do you need a bag?,Do you need a bag?,2.1128,1,0,0,0,5
+earlene,10_earlene_noise_08.wav,noise,Here is your change,Here is your change,1.8756,1,0,0,0,4
+earlene,91_earlene_other_01.wav,other,__OTHER__,__OTHER__,1.9174,1,0,0,0,0
+earlene,92_earlene_other_01.wav,other,__OTHER__,__OTHER__,1.5588,1,0,0,0,0
+earlene,93_earlene_other_01.wav,other,__OTHER__,__OTHER__,1.8292,1,0,0,0,0
+earlene,94_earlene_other_01.wav,other,__OTHER__,__OTHER__,1.7671,1,0,0,0,0
+earlene,95_earlene_other_01.wav,other,__OTHER__,__OTHER__,1.6026,1,0,0,0,0
+earlene,91_earlene_other_02.wav,other,__OTHER__,__OTHER__,1.7309,1,0,0,0,0
+earlene,92_earlene_other_02.wav,other,__OTHER__,__OTHER__,1.8105,1,0,0,0,0
+earlene,93_earlene_other_02.wav,other,__OTHER__,__OTHER__,2.0155,1,0,0,0,0
+earlene,94_earlene_other_02.wav,other,__OTHER__,__OTHER__,1.7497,1,0,0,0,0
+earlene,95_earlene_other_02.wav,other,__OTHER__,__OTHER__,1.5868,1,0,0,0,0
+felicia,91_felicia_other_01.wav,other,__OTHER__,__OTHER__,1.7016,1,0,0,0,0
+felicia,92_felicia_other_01.wav,other,__OTHER__,__OTHER__,1.8279,1,0,0,0,0
+felicia,93_felicia_other_01.wav,other,__OTHER__,__OTHER__,1.8292,1,0,0,0,0
+felicia,94_felicia_other_01.wav,other,__OTHER__,__OTHER__,1.8108,1,0,0,0,0
+felicia,95_felicia_other_01.wav,other,__OTHER__,__OTHER__,1.4409,1,0,0,0,0
+felicia,91_felicia_other_02.wav,other,__OTHER__,__OTHER__,1.7309,1,0,0,0,0
+felicia,92_felicia_other_02.wav,other,__OTHER__,__OTHER__,1.5588,1,0,0,0,0
+felicia,93_felicia_other_02.wav,other,__OTHER__,__OTHER__,1.877,1,0,0,0,0
+felicia,94_felicia_other_02.wav,other,__OTHER__,__OTHER__,1.7497,1,0,0,0,0
+felicia,95_felicia_other_02.wav,other,__OTHER__,__OTHER__,1.7669,1,0,0,0,0
+felicia,01_felicia_noise_01.wav,noise,Please pay with cash,__OTHER__,2.3971,0,1,3,0,4
+felicia,02_felicia_noise_01.wav,noise,Please pay with card,Please pay with card,2.2557,1,0,0,0,4
+felicia,03_felicia_noise_01.wav,noise,Please scan the QR code,Sold out,2.3418,0,2,3,0,5
+felicia,04_felicia_noise_01.wav,noise,I don't have that,I don't have that,2.2055,1,0,0,0,4
+felicia,05_felicia_noise_01.wav,noise,Sold out,Please pay with card,2.3077,0,2,0,2,2
+felicia,06_felicia_noise_01.wav,noise,How much is this?,How much is this?,2.1909,1,0,0,0,4
+felicia,07_felicia_noise_01.wav,noise,Thank you very much,Thank you very much,2.2767,1,0,0,0,4
+felicia,08_felicia_noise_01.wav,noise,Please wait a moment,Please pay with card,2.218,0,3,0,0,4
+felicia,09_felicia_noise_01.wav,noise,Do you need a bag?,Sold out,2.3697,0,2,3,0,5
+felicia,10_felicia_noise_01.wav,noise,Here is your change,Here is your change,2.2797,1,0,0,0,4
+felicia,01_felicia_noise_02.wav,noise,Please pay with cash,Please pay with cash,2.2869,1,0,0,0,4
+felicia,02_felicia_noise_02.wav,noise,Please pay with card,Please scan the QR code,2.0967,0,3,0,1,4
+felicia,03_felicia_noise_02.wav,noise,Please scan the QR code,Please pay with card,2.3126,0,3,1,0,5
+felicia,04_felicia_noise_02.wav,noise,I don't have that,I don't have that,2.1865,1,0,0,0,4
+felicia,05_felicia_noise_02.wav,noise,Sold out,Do you need a bag?,2.1579,0,2,0,3,2
+felicia,06_felicia_noise_02.wav,noise,How much is this?,How much is this?,2.0573,1,0,0,0,4
+felicia,07_felicia_noise_02.wav,noise,Thank you very much,Thank you very much,2.2427,1,0,0,0,4
+felicia,08_felicia_noise_02.wav,noise,Please wait a moment,Please wait a moment,2.1173,1,0,0,0,4
+felicia,09_felicia_noise_02.wav,noise,Do you need a bag?,I don't have that,2.3255,0,4,1,0,5
+felicia,10_felicia_noise_02.wav,noise,Here is your change,Here is your change,2.0153,1,0,0,0,4
+felicia,01_felicia_noise_03.wav,noise,Please pay with cash,__OTHER__,2.4253,0,1,3,0,4
+felicia,02_felicia_noise_03.wav,noise,Please pay with card,Please pay with card,2.3218,1,0,0,0,4
+felicia,03_felicia_noise_03.wav,noise,Please scan the QR code,Please scan the QR code,2.3589,1,0,0,0,5
+felicia,04_felicia_noise_03.wav,noise,I don't have that,I don't have that,2.3164,1,0,0,0,4
+felicia,05_felicia_noise_03.wav,noise,Sold out,Please pay with cash,2.3068,0,2,0,2,2
+felicia,06_felicia_noise_03.wav,noise,How much is this?,Please pay with cash,2.1613,0,4,0,0,4
+felicia,07_felicia_noise_03.wav,noise,Thank you very much,Please pay with cash,2.1951,0,4,0,0,4
+felicia,08_felicia_noise_03.wav,noise,Please wait a moment,Here is your change,2.2914,0,4,0,0,4
+felicia,09_felicia_noise_03.wav,noise,Do you need a bag?,Please pay with cash,2.3931,0,4,1,0,5
+felicia,10_felicia_noise_03.wav,noise,Here is your change,Here is your change,2.3074,1,0,0,0,4
+felicia,01_felicia_noise_04.wav,noise,Please pay with cash,Sold out,2.4377,0,2,2,0,4
+felicia,02_felicia_noise_04.wav,noise,Please pay with card,Please pay with card,2.3037,1,0,0,0,4
+felicia,03_felicia_noise_04.wav,noise,Please scan the QR code,Please scan the QR code,2.308,1,0,0,0,5
+felicia,04_felicia_noise_04.wav,noise,I don't have that,I don't have that,2.2125,1,0,0,0,4
+felicia,05_felicia_noise_04.wav,noise,Sold out,Sold out,1.975,1,0,0,0,2
+felicia,06_felicia_noise_04.wav,noise,How much is this?,How much is this?,1.9908,1,0,0,0,4
+felicia,07_felicia_noise_04.wav,noise,Thank you very much,Do you need a bag?,2.4873,0,3,0,1,4
+felicia,08_felicia_noise_04.wav,noise,Please wait a moment,Please wait a moment,2.1671,1,0,0,0,4
+felicia,09_felicia_noise_04.wav,noise,Do you need a bag?,Please pay with cash,2.3161,0,4,1,0,5
+felicia,10_felicia_noise_04.wav,noise,Here is your change,Sold out,2.2586,0,2,2,0,4
+felicia,01_felicia_noise_05.wav,noise,Please pay with cash,__OTHER__,2.3824,0,1,3,0,4
+felicia,02_felicia_noise_05.wav,noise,Please pay with card,Please pay with card,2.046,1,0,0,0,4
+felicia,03_felicia_noise_05.wav,noise,Please scan the QR code,Please wait a moment,2.0912,0,3,1,0,5
+felicia,04_felicia_noise_05.wav,noise,I don't have that,I don't have that,2.282,1,0,0,0,4
+felicia,05_felicia_noise_05.wav,noise,Sold out,Sold out,2.2542,1,0,0,0,2
+felicia,06_felicia_noise_05.wav,noise,How much is this?,How much is this?,2.1358,1,0,0,0,4
+felicia,07_felicia_noise_05.wav,noise,Thank you very much,Thank you very much,2.017,1,0,0,0,4
+felicia,08_felicia_noise_05.wav,noise,Please wait a moment,Do you need a bag?,2.1261,0,3,0,1,4
+felicia,09_felicia_noise_05.wav,noise,Do you need a bag?,Do you need a bag?,2.3389,1,0,0,0,5
+felicia,10_felicia_noise_05.wav,noise,Here is your change,Sold out,2.2573,0,2,2,0,4
+felicia,01_felicia_noise_06.wav,noise,Please pay with cash,Please pay with cash,2.1437,1,0,0,0,4
+felicia,02_felicia_noise_06.wav,noise,Please pay with card,__OTHER__,1.9631,0,1,3,0,4
+felicia,03_felicia_noise_06.wav,noise,Please scan the QR code,Please scan the QR code,2.1879,1,0,0,0,5
+felicia,04_felicia_noise_06.wav,noise,I don't have that,I don't have that,2.2968,1,0,0,0,4
+felicia,05_felicia_noise_06.wav,noise,Sold out,Sold out,1.9849,1,0,0,0,2
+felicia,06_felicia_noise_06.wav,noise,How much is this?,How much is this?,1.9587,1,0,0,0,4
+felicia,07_felicia_noise_06.wav,noise,Thank you very much,Please pay with cash,2.1787,0,4,0,0,4
+felicia,08_felicia_noise_06.wav,noise,Please wait a moment,Please wait a moment,2.1839,1,0,0,0,4
+felicia,09_felicia_noise_06.wav,noise,Do you need a bag?,Do you need a bag?,2.1556,1,0,0,0,5
+felicia,10_felicia_noise_06.wav,noise,Here is your change,Sold out,2.3761,0,2,2,0,4
+felicia,01_felicia_noise_07.wav,noise,Please pay with cash,Please pay with cash,2.1775,1,0,0,0,4
+felicia,02_felicia_noise_07.wav,noise,Please pay with card,Please pay with card,2.1195,1,0,0,0,4
+felicia,03_felicia_noise_07.wav,noise,Please scan the QR code,Please pay with card,2.2142,0,3,1,0,5
+felicia,04_felicia_noise_07.wav,noise,I don't have that,I don't have that,2.3194,1,0,0,0,4
+felicia,05_felicia_noise_07.wav,noise,Sold out,Sold out,2.1957,1,0,0,0,2
+felicia,06_felicia_noise_07.wav,noise,How much is this?,How much is this?,1.8714,1,0,0,0,4
+felicia,07_felicia_noise_07.wav,noise,Thank you very much,Thank you very much,2.1453,1,0,0,0,4
+felicia,08_felicia_noise_07.wav,noise,Please wait a moment,Please wait a moment,2.2178,1,0,0,0,4
+felicia,09_felicia_noise_07.wav,noise,Do you need a bag?,Do you need a bag?,2.1907,1,0,0,0,5
+felicia,10_felicia_noise_07.wav,noise,Here is your change,__OTHER__,2.3235,0,1,3,0,4
+felicia,01_felicia_noise_08.wav,noise,Please pay with cash,Please pay with cash,2.1414,1,0,0,0,4
+felicia,02_felicia_noise_08.wav,noise,Please pay with card,__OTHER__,2.1528,0,1,3,0,4
+felicia,03_felicia_noise_08.wav,noise,Please scan the QR code,Please scan the QR code,2.1901,1,0,0,0,5
+felicia,04_felicia_noise_08.wav,noise,I don't have that,Please pay with cash,2.297,0,4,0,0,4
+felicia,05_felicia_noise_08.wav,noise,Sold out,Sold out,1.9949,1,0,0,0,2
+felicia,06_felicia_noise_08.wav,noise,How much is this?,How much is this?,1.9792,1,0,0,0,4
+felicia,07_felicia_noise_08.wav,noise,Thank you very much,Sold out,2.3523,0,2,2,0,4
+felicia,08_felicia_noise_08.wav,noise,Please wait a moment,Please wait a moment,2.0747,1,0,0,0,4
+felicia,09_felicia_noise_08.wav,noise,Do you need a bag?,Please pay with cash,2.0269,0,4,1,0,5
+felicia,10_felicia_noise_08.wav,noise,Here is your change,Here is your change,1.9539,1,0,0,0,4
+mipang,91_mipang_other_01.wav,other,__OTHER__,__OTHER__,1.7757,1,0,0,0,0
+mipang,92_mipang_other_01.wav,other,__OTHER__,__OTHER__,1.6052,1,0,0,0,0
+mipang,93_mipang_other_01.wav,other,__OTHER__,__OTHER__,2.087,1,0,0,0,0
+mipang,94_mipang_other_01.wav,other,__OTHER__,__OTHER__,1.7757,1,0,0,0,0
+mipang,95_mipang_other_01.wav,other,__OTHER__,__OTHER__,1.4409,1,0,0,0,0
+mipang,91_mipang_other_02.wav,other,__OTHER__,__OTHER__,1.7016,1,0,0,0,0
+mipang,92_mipang_other_02.wav,other,__OTHER__,__OTHER__,1.6742,1,0,0,0,0
+mipang,93_mipang_other_02.wav,other,__OTHER__,__OTHER__,1.877,1,0,0,0,0
+mipang,94_mipang_other_02.wav,other,__OTHER__,__OTHER__,1.8456,1,0,0,0,0
+mipang,95_mipang_other_02.wav,other,__OTHER__,__OTHER__,1.6667,1,0,0,0,0
+mipang,01_mipang_noise_01.wav,noise,Please pay with cash,Do you need a bag?,2.0269,0,4,0,1,4
+mipang,02_mipang_noise_01.wav,noise,Please pay with card,Thank you very much,2.3478,0,4,0,0,4
+mipang,03_mipang_noise_01.wav,noise,Please scan the QR code,Please scan the QR code,2.0623,1,0,0,0,5
+mipang,04_mipang_noise_01.wav,noise,I don't have that,I don't have that,2.0734,1,0,0,0,4
+mipang,05_mipang_noise_01.wav,noise,Sold out,Sold out,1.7787,1,0,0,0,2
+mipang,06_mipang_noise_01.wav,noise,How much is this?,How much is this?,2.1281,1,0,0,0,4
+mipang,07_mipang_noise_01.wav,noise,Thank you very much,Thank you very much,2.0031,1,0,0,0,4
+mipang,08_mipang_noise_01.wav,noise,Please wait a moment,Please wait a moment,2.0224,1,0,0,0,4
+mipang,09_mipang_noise_01.wav,noise,Do you need a bag?,Sold out,2.1579,0,2,3,0,5
+mipang,10_mipang_noise_01.wav,noise,Here is your change,Here is your change,2.0173,1,0,0,0,4
+mipang,01_mipang_noise_02.wav,noise,Please pay with cash,Thank you very much,2.1787,0,4,0,0,4
+mipang,02_mipang_noise_02.wav,noise,Please pay with card,Please pay with card,2.0051,1,0,0,0,4
+mipang,03_mipang_noise_02.wav,noise,Please scan the QR code,Please scan the QR code,2.2356,1,0,0,0,5
+mipang,04_mipang_noise_02.wav,noise,I don't have that,I don't have that,2.1693,1,0,0,0,4
+mipang,05_mipang_noise_02.wav,noise,Sold out,Sold out,1.9338,1,0,0,0,2
+mipang,06_mipang_noise_02.wav,noise,How much is this?,How much is this?,2.2748,1,0,0,0,4
+mipang,07_mipang_noise_02.wav,noise,Thank you very much,Thank you very much,2.0275,1,0,0,0,4
+mipang,08_mipang_noise_02.wav,noise,Please wait a moment,Please pay with card,2.0994,0,3,0,0,4
+mipang,09_mipang_noise_02.wav,noise,Do you need a bag?,Do you need a bag?,2.1128,1,0,0,0,5
+mipang,10_mipang_noise_02.wav,noise,Here is your change,Here is your change,2.2416,1,0,0,0,4
+mipang,01_mipang_noise_03.wav,noise,Please pay with cash,Please pay with cash,2.0846,1,0,0,0,4
+mipang,02_mipang_noise_03.wav,noise,Please pay with card,Please pay with cash,2.1585,0,1,0,0,4
+mipang,03_mipang_noise_03.wav,noise,Please scan the QR code,Please scan the QR code,2.1884,1,0,0,0,5
+mipang,04_mipang_noise_03.wav,noise,I don't have that,I don't have that,2.26,1,0,0,0,4
+mipang,05_mipang_noise_03.wav,noise,Sold out,How much is this?,2.3307,0,2,0,2,2
+mipang,06_mipang_noise_03.wav,noise,How much is this?,How much is this?,1.944,1,0,0,0,4
+mipang,07_mipang_noise_03.wav,noise,Thank you very much,Thank you very much,1.9852,1,0,0,0,4
+mipang,08_mipang_noise_03.wav,noise,Please wait a moment,Please wait a moment,2.1226,1,0,0,0,4
+mipang,09_mipang_noise_03.wav,noise,Do you need a bag?,Do you need a bag?,2.4217,1,0,0,0,5
+mipang,10_mipang_noise_03.wav,noise,Here is your change,Thank you very much,2.2383,0,4,0,0,4
+mipang,01_mipang_noise_04.wav,noise,Please pay with cash,Please pay with cash,1.9594,1,0,0,0,4
+mipang,02_mipang_noise_04.wav,noise,Please pay with card,Please pay with card,2.1091,1,0,0,0,4
+mipang,03_mipang_noise_04.wav,noise,Please scan the QR code,Please scan the QR code,2.2473,1,0,0,0,5
+mipang,04_mipang_noise_04.wav,noise,I don't have that,I don't have that,2.3018,1,0,0,0,4
+mipang,05_mipang_noise_04.wav,noise,Sold out,Sold out,1.9346,1,0,0,0,2
+mipang,06_mipang_noise_04.wav,noise,How much is this?,How much is this?,2.2836,1,0,0,0,4
+mipang,07_mipang_noise_04.wav,noise,Thank you very much,Thank you very much,2.0029,1,0,0,0,4
+mipang,08_mipang_noise_04.wav,noise,Please wait a moment,Please wait a moment,1.9583,1,0,0,0,4
+mipang,09_mipang_noise_04.wav,noise,Do you need a bag?,Do you need a bag?,2.1087,1,0,0,0,5
+mipang,10_mipang_noise_04.wav,noise,Here is your change,Here is your change,1.9493,1,0,0,0,4
+mipang,01_mipang_noise_05.wav,noise,Please pay with cash,Please pay with cash,1.9608,1,0,0,0,4
+mipang,02_mipang_noise_05.wav,noise,Please pay with card,Please pay with card,1.8919,1,0,0,0,4
+mipang,03_mipang_noise_05.wav,noise,Please scan the QR code,Please scan the QR code,1.958,1,0,0,0,5
+mipang,04_mipang_noise_05.wav,noise,I don't have that,I don't have that,2.1339,1,0,0,0,4
+mipang,05_mipang_noise_05.wav,noise,Sold out,Sold out,2.1675,1,0,0,0,2
+mipang,06_mipang_noise_05.wav,noise,How much is this?,How much is this?,2.0397,1,0,0,0,4
+mipang,07_mipang_noise_05.wav,noise,Thank you very much,Thank you very much,1.9919,1,0,0,0,4
+mipang,08_mipang_noise_05.wav,noise,Please wait a moment,Please wait a moment,1.9576,1,0,0,0,4
+mipang,09_mipang_noise_05.wav,noise,Do you need a bag?,Please wait a moment,2.0238,0,3,1,0,5
+mipang,10_mipang_noise_05.wav,noise,Here is your change,Thank you very much,2.2451,0,4,0,0,4
+mipang,01_mipang_noise_06.wav,noise,Please pay with cash,Thank you very much,2.2645,0,4,0,0,4
+mipang,02_mipang_noise_06.wav,noise,Please pay with card,Please pay with card,2.1012,1,0,0,0,4
+mipang,03_mipang_noise_06.wav,noise,Please scan the QR code,Please wait a moment,2.1977,0,3,1,0,5
+mipang,04_mipang_noise_06.wav,noise,I don't have that,I don't have that,2.1392,1,0,0,0,4
+mipang,05_mipang_noise_06.wav,noise,Sold out,Please pay with card,2.3351,0,2,0,2,2
+mipang,06_mipang_noise_06.wav,noise,How much is this?,How much is this?,2.1447,1,0,0,0,4
+mipang,07_mipang_noise_06.wav,noise,Thank you very much,Thank you very much,2.0764,1,0,0,0,4
+mipang,08_mipang_noise_06.wav,noise,Please wait a moment,Please wait a moment,2.0347,1,0,0,0,4
+mipang,09_mipang_noise_06.wav,noise,Do you need a bag?,Do you need a bag?,2.1651,1,0,0,0,5
+mipang,10_mipang_noise_06.wav,noise,Here is your change,Thank you very much,2.2294,0,4,0,0,4
+mipang,01_mipang_noise_07.wav,noise,Please pay with cash,Please pay with cash,2.0016,1,0,0,0,4
+mipang,02_mipang_noise_07.wav,noise,Please pay with card,Please pay with card,2.0503,1,0,0,0,4
+mipang,03_mipang_noise_07.wav,noise,Please scan the QR code,Please scan the QR code,2.0427,1,0,0,0,5
+mipang,04_mipang_noise_07.wav,noise,I don't have that,Please pay with cash,2.2118,0,4,0,0,4
+mipang,05_mipang_noise_07.wav,noise,Sold out,Sold out,2.0114,1,0,0,0,2
+mipang,06_mipang_noise_07.wav,noise,How much is this?,How much is this?,2.0545,1,0,0,0,4
+mipang,07_mipang_noise_07.wav,noise,Thank you very much,Do you need a bag?,2.1801,0,3,0,1,4
+mipang,08_mipang_noise_07.wav,noise,Please wait a moment,Please wait a moment,1.988,1,0,0,0,4
+mipang,09_mipang_noise_07.wav,noise,Do you need a bag?,Please wait a moment,2.2682,0,3,1,0,5
+mipang,10_mipang_noise_07.wav,noise,Here is your change,Here is your change,1.9988,1,0,0,0,4
+mipang,01_mipang_noise_08.wav,noise,Please pay with cash,Thank you very much,2.1951,0,4,0,0,4
+mipang,02_mipang_noise_08.wav,noise,Please pay with card,Please pay with card,1.9673,1,0,0,0,4
+mipang,03_mipang_noise_08.wav,noise,Please scan the QR code,Please pay with card,2.2011,0,3,1,0,5
+mipang,04_mipang_noise_08.wav,noise,I don't have that,I don't have that,2.3228,1,0,0,0,4
+mipang,05_mipang_noise_08.wav,noise,Sold out,Sold out,1.8359,1,0,0,0,2
+mipang,06_mipang_noise_08.wav,noise,How much is this?,How much is this?,2.1328,1,0,0,0,4
+mipang,07_mipang_noise_08.wav,noise,Thank you very much,Thank you very much,2.0761,1,0,0,0,4
+mipang,08_mipang_noise_08.wav,noise,Please wait a moment,Please wait a moment,2.2627,1,0,0,0,4
+mipang,09_mipang_noise_08.wav,noise,Do you need a bag?,Please wait a moment,2.1261,0,3,1,0,5
+mipang,10_mipang_noise_08.wav,noise,Here is your change,Do you need a bag?,2.2617,0,4,0,1,4

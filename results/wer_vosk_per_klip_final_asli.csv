@@ -1,0 +1,481 @@
+file,speaker,condition,ref,hyp,wer,S,D,I,N,exact,latency_ms,dur_s
+01_earlene_clean_01.wav,earlene,clean,Please pay with cash,please pay with cash,0.0,0,0,0,4,1,990.1,4.5
+02_earlene_clean_01.wav,earlene,clean,Please pay with card,please pay with card,0.0,0,0,0,4,1,336.8,4.5
+03_earlene_clean_01.wav,earlene,clean,Please scan the QR code,please the qr code,0.2,0,1,0,5,0,520.2,4.5
+04_earlene_clean_01.wav,earlene,clean,I don't have that,i don't have dead,0.25,1,0,0,4,0,441.1,4.5
+05_earlene_clean_01.wav,earlene,clean,Sold out,sold out,0.0,0,0,0,2,1,263.9,4.5
+06_earlene_clean_01.wav,earlene,clean,How much is this?,how much is this,0.0,0,0,0,4,1,377.3,4.5
+07_earlene_clean_01.wav,earlene,clean,Thank you very much,thank you very much,0.0,0,0,0,4,1,317.0,4.5
+08_earlene_clean_01.wav,earlene,clean,Please wait a moment,please wait a moment,0.0,0,0,0,4,1,309.8,4.5
+09_earlene_clean_01.wav,earlene,clean,Do you need a bag?,do you need a bear,0.2,1,0,0,5,0,424.9,4.5
+10_earlene_clean_01.wav,earlene,clean,Here is your change,he had is your change,0.5,1,0,1,4,0,298.1,4.5
+01_earlene_clean_02.wav,earlene,clean,Please pay with cash,please pay with cash,0.0,0,0,0,4,1,253.5,4.5
+02_earlene_clean_02.wav,earlene,clean,Please pay with card,please pay with car,0.25,1,0,0,4,0,203.7,4.5
+03_earlene_clean_02.wav,earlene,clean,Please scan the QR code,please and a qr code,0.4,2,0,0,5,0,297.3,4.5
+04_earlene_clean_02.wav,earlene,clean,I don't have that,i don't have that,0.0,0,0,0,4,1,311.6,4.5
+05_earlene_clean_02.wav,earlene,clean,Sold out,sold out,0.0,0,0,0,2,1,230.9,4.5
+06_earlene_clean_02.wav,earlene,clean,How much is this?,how much is this,0.0,0,0,0,4,1,213.1,4.5
+07_earlene_clean_02.wav,earlene,clean,Thank you very much,thank you very much,0.0,0,0,0,4,1,242.2,4.5
+08_earlene_clean_02.wav,earlene,clean,Please wait a moment,please wait a moment,0.0,0,0,0,4,1,205.6,4.5
+09_earlene_clean_02.wav,earlene,clean,Do you need a bag?,nor you and me a back,0.8,3,0,1,5,0,302.1,4.5
+10_earlene_clean_02.wav,earlene,clean,Here is your change,here is your change,0.0,0,0,0,4,1,235.9,4.5
+01_earlene_clean_03.wav,earlene,clean,Please pay with cash,please pay with cash,0.0,0,0,0,4,1,211.8,4.5
+02_earlene_clean_03.wav,earlene,clean,Please pay with card,please pay with card,0.0,0,0,0,4,1,195.1,4.5
+03_earlene_clean_03.wav,earlene,clean,Please scan the QR code,please can you are caught,0.8,4,0,0,5,0,287.7,4.5
+04_earlene_clean_03.wav,earlene,clean,I don't have that,i don't have the,0.25,1,0,0,4,0,242.1,4.5
+05_earlene_clean_03.wav,earlene,clean,Sold out,sold out,0.0,0,0,0,2,1,190.8,4.5
+06_earlene_clean_03.wav,earlene,clean,How much is this?,how much is this,0.0,0,0,0,4,1,231.9,4.5
+07_earlene_clean_03.wav,earlene,clean,Thank you very much,thank you very much,0.0,0,0,0,4,1,249.1,4.5
+08_earlene_clean_03.wav,earlene,clean,Please wait a moment,please wait a moment,0.0,0,0,0,4,1,203.9,4.5
+09_earlene_clean_03.wav,earlene,clean,Do you need a bag?,do you need a bit,0.2,1,0,0,5,0,294.1,4.5
+10_earlene_clean_03.wav,earlene,clean,Here is your change,here is your change,0.0,0,0,0,4,1,241.5,4.5
+01_earlene_clean_04.wav,earlene,clean,Please pay with cash,please pay with cash,0.0,0,0,0,4,1,193.1,4.5
+02_earlene_clean_04.wav,earlene,clean,Please pay with card,please pay with car,0.25,1,0,0,4,0,214.6,4.5
+03_earlene_clean_04.wav,earlene,clean,Please scan the QR code,please the you are caught,0.8,4,0,0,5,0,274.3,4.5
+04_earlene_clean_04.wav,earlene,clean,I don't have that,i don't have the,0.25,1,0,0,4,0,208.9,4.5
+05_earlene_clean_04.wav,earlene,clean,Sold out,sold out,0.0,0,0,0,2,1,185.0,4.5
+06_earlene_clean_04.wav,earlene,clean,How much is this?,how much is this,0.0,0,0,0,4,1,197.2,4.5
+07_earlene_clean_04.wav,earlene,clean,Thank you very much,thank you very much,0.0,0,0,0,4,1,211.9,4.5
+08_earlene_clean_04.wav,earlene,clean,Please wait a moment,please wait a moment,0.0,0,0,0,4,1,204.0,4.5
+09_earlene_clean_04.wav,earlene,clean,Do you need a bag?,do you need a bag,0.0,0,0,0,5,1,187.9,4.5
+10_earlene_clean_04.wav,earlene,clean,Here is your change,here is your change,0.0,0,0,0,4,1,193.1,4.5
+01_earlene_clean_05.wav,earlene,clean,Please pay with cash,please pay with cash,0.0,0,0,0,4,1,196.9,4.5
+02_earlene_clean_05.wav,earlene,clean,Please pay with card,please pay with car,0.25,1,0,0,4,0,204.1,4.5
+03_earlene_clean_05.wav,earlene,clean,Please scan the QR code,please can duck you are caught,1.0,4,0,1,5,0,235.1,4.5
+04_earlene_clean_05.wav,earlene,clean,I don't have that,i don't have that,0.0,0,0,0,4,1,240.6,4.5
+05_earlene_clean_05.wav,earlene,clean,Sold out,sold out,0.0,0,0,0,2,1,178.9,4.5
+06_earlene_clean_05.wav,earlene,clean,How much is this?,how much is this,0.0,0,0,0,4,1,195.2,4.5
+07_earlene_clean_05.wav,earlene,clean,Thank you very much,thank you very much,0.0,0,0,0,4,1,194.8,4.5
+08_earlene_clean_05.wav,earlene,clean,Please wait a moment,please wait a moment,0.0,0,0,0,4,1,228.3,4.5
+09_earlene_clean_05.wav,earlene,clean,Do you need a bag?,no you will need a back,0.6,2,0,1,5,0,202.0,4.5
+10_earlene_clean_05.wav,earlene,clean,Here is your change,here is your change,0.0,0,0,0,4,1,198.0,4.5
+01_earlene_clean_06.wav,earlene,clean,Please pay with cash,please pay with cash,0.0,0,0,0,4,1,222.3,4.5
+02_earlene_clean_06.wav,earlene,clean,Please pay with card,please pay with car,0.25,1,0,0,4,0,206.9,4.5
+03_earlene_clean_06.wav,earlene,clean,Please scan the QR code,please kind of you are caught,1.0,4,0,1,5,0,219.5,4.5
+04_earlene_clean_06.wav,earlene,clean,I don't have that,i don't have dead,0.25,1,0,0,4,0,216.9,4.5
+05_earlene_clean_06.wav,earlene,clean,Sold out,saul all,1.0,2,0,0,2,0,249.5,4.5
+06_earlene_clean_06.wav,earlene,clean,How much is this?,how much is this,0.0,0,0,0,4,1,192.1,4.5
+07_earlene_clean_06.wav,earlene,clean,Thank you very much,thank you very much,0.0,0,0,0,4,1,229.1,4.5
+08_earlene_clean_06.wav,earlene,clean,Please wait a moment,please wait a moment,0.0,0,0,0,4,1,201.6,4.5
+09_earlene_clean_06.wav,earlene,clean,Do you need a bag?,do you need a bag,0.0,0,0,0,5,1,204.5,4.5
+10_earlene_clean_06.wav,earlene,clean,Here is your change,here is your change,0.0,0,0,0,4,1,226.6,4.5
+01_earlene_clean_07.wav,earlene,clean,Please pay with cash,please pay with cash,0.0,0,0,0,4,1,193.1,4.5
+02_earlene_clean_07.wav,earlene,clean,Please pay with card,please pay with car,0.25,1,0,0,4,0,196.0,4.5
+03_earlene_clean_07.wav,earlene,clean,Please scan the QR code,please and that you are caught,1.0,4,0,1,5,0,264.2,4.5
+04_earlene_clean_07.wav,earlene,clean,I don't have that,i don't have that,0.0,0,0,0,4,1,220.4,4.5
+05_earlene_clean_07.wav,earlene,clean,Sold out,out,0.5,0,1,0,2,0,235.6,4.5
+06_earlene_clean_07.wav,earlene,clean,How much is this?,how much these days,0.5,2,0,0,4,0,213.7,4.5
+07_earlene_clean_07.wav,earlene,clean,Thank you very much,you're fat a match,1.0,4,0,0,4,0,262.3,4.5
+08_earlene_clean_07.wav,earlene,clean,Please wait a moment,please wait a moment,0.0,0,0,0,4,1,163.9,4.5
+09_earlene_clean_07.wav,earlene,clean,Do you need a bag?,no you need a back,0.4,2,0,0,5,0,130.7,4.5
+10_earlene_clean_07.wav,earlene,clean,Here is your change,here is your change,0.0,0,0,0,4,1,113.2,4.5
+01_earlene_clean_08.wav,earlene,clean,Please pay with cash,please pay with cash,0.0,0,0,0,4,1,109.1,4.5
+02_earlene_clean_08.wav,earlene,clean,Please pay with card,please pay with car,0.25,1,0,0,4,0,114.2,4.5
+03_earlene_clean_08.wav,earlene,clean,Please scan the QR code,please can you are caught,0.8,4,0,0,5,0,240.4,4.5
+04_earlene_clean_08.wav,earlene,clean,I don't have that,i don't have that,0.0,0,0,0,4,1,207.7,4.5
+05_earlene_clean_08.wav,earlene,clean,Sold out,oh,1.0,1,1,0,2,0,199.3,4.5
+06_earlene_clean_08.wav,earlene,clean,How much is this?,how much is this,0.0,0,0,0,4,1,213.3,4.5
+07_earlene_clean_08.wav,earlene,clean,Thank you very much,thank you very much,0.0,0,0,0,4,1,201.6,4.5
+08_earlene_clean_08.wav,earlene,clean,Please wait a moment,please wait a moment,0.0,0,0,0,4,1,198.1,4.5
+09_earlene_clean_08.wav,earlene,clean,Do you need a bag?,do you need a back,0.2,1,0,0,5,0,205.9,4.5
+10_earlene_clean_08.wav,earlene,clean,Here is your change,here is your change,0.0,0,0,0,4,1,232.0,4.5
+01_earlene_noise_01.wav,earlene,noise,Please pay with cash,hey,1.0,1,3,0,4,0,243.6,4.5
+02_earlene_noise_01.wav,earlene,noise,Please pay with card,hey were card,0.75,2,1,0,4,0,234.7,4.5
+03_earlene_noise_01.wav,earlene,noise,Please scan the QR code,can you are caught,1.0,4,1,0,5,0,279.6,4.5
+04_earlene_noise_01.wav,earlene,noise,I don't have that,i don't have that,0.0,0,0,0,4,1,204.4,4.5
+05_earlene_noise_01.wav,earlene,noise,Sold out,how,1.0,1,1,0,2,0,188.3,4.5
+06_earlene_noise_01.wav,earlene,noise,How much is this?,how much is this,0.0,0,0,0,4,1,209.1,4.5
+07_earlene_noise_01.wav,earlene,noise,Thank you very much,thank you very much,0.0,0,0,0,4,1,284.4,4.5
+08_earlene_noise_01.wav,earlene,noise,Please wait a moment,please wait a moment,0.0,0,0,0,4,1,235.2,4.5
+09_earlene_noise_01.wav,earlene,noise,Do you need a bag?,it,1.0,1,4,0,5,0,368.0,4.5
+10_earlene_noise_01.wav,earlene,noise,Here is your change,hand,1.0,1,3,0,4,0,385.1,4.5
+01_earlene_noise_02.wav,earlene,noise,Please pay with cash,please pay with cash,0.0,0,0,0,4,1,283.9,4.5
+02_earlene_noise_02.wav,earlene,noise,Please pay with card,please pay were car,0.5,2,0,0,4,0,243.0,4.5
+03_earlene_noise_02.wav,earlene,noise,Please scan the QR code,we spend a few are called,1.2,5,0,1,5,0,335.1,4.5
+04_earlene_noise_02.wav,earlene,noise,I don't have that,i don't have that,0.0,0,0,0,4,1,200.1,4.5
+05_earlene_noise_02.wav,earlene,noise,Sold out,ah,1.0,1,1,0,2,0,253.3,4.5
+06_earlene_noise_02.wav,earlene,noise,How much is this?,how much is this,0.0,0,0,0,4,1,201.5,4.5
+07_earlene_noise_02.wav,earlene,noise,Thank you very much,thank you very much,0.0,0,0,0,4,1,238.8,4.5
+08_earlene_noise_02.wav,earlene,noise,Please wait a moment,please wait a moment,0.0,0,0,0,4,1,213.1,4.5
+09_earlene_noise_02.wav,earlene,noise,Do you need a bag?,only apply,1.0,2,3,0,5,0,377.6,4.5
+10_earlene_noise_02.wav,earlene,noise,Here is your change,here is your change,0.0,0,0,0,4,1,223.0,4.5
+01_earlene_noise_03.wav,earlene,noise,Please pay with cash,we pay with cash,0.25,1,0,0,4,0,262.0,4.5
+02_earlene_noise_03.wav,earlene,noise,Please pay with card,hi,1.0,1,3,0,4,0,255.0,4.5
+03_earlene_noise_03.wav,earlene,noise,Please scan the QR code,we can you are caught,1.0,5,0,0,5,0,264.2,4.5
+04_earlene_noise_03.wav,earlene,noise,I don't have that,i don't have that,0.0,0,0,0,4,1,198.9,4.5
+05_earlene_noise_03.wav,earlene,noise,Sold out,so out,0.5,1,0,0,2,0,185.2,4.5
+06_earlene_noise_03.wav,earlene,noise,How much is this?,how much as this,0.25,1,0,0,4,0,213.8,4.5
+07_earlene_noise_03.wav,earlene,noise,Thank you very much,thank you very much,0.0,0,0,0,4,1,225.0,4.5
+08_earlene_noise_03.wav,earlene,noise,Please wait a moment,wait a moment,0.25,0,1,0,4,0,230.6,4.5
+09_earlene_noise_03.wav,earlene,noise,Do you need a bag?,do you need a back,0.2,1,0,0,5,0,315.4,4.5
+10_earlene_noise_03.wav,earlene,noise,Here is your change,here as change,0.5,1,1,0,4,0,400.7,4.5
+01_earlene_noise_04.wav,earlene,noise,Please pay with cash,pay with cash,0.25,0,1,0,4,0,209.1,4.5
+02_earlene_noise_04.wav,earlene,noise,Please pay with card,hi,1.0,1,3,0,4,0,232.0,4.5
+03_earlene_noise_04.wav,earlene,noise,Please scan the QR code,please scan the qr code,0.0,0,0,0,5,1,235.7,4.5
+04_earlene_noise_04.wav,earlene,noise,I don't have that,i don't pass that,0.25,1,0,0,4,0,221.4,4.5
+05_earlene_noise_04.wav,earlene,noise,Sold out,out,0.5,0,1,0,2,0,232.7,4.5
+06_earlene_noise_04.wav,earlene,noise,How much is this?,how much is this,0.0,0,0,0,4,1,211.1,4.5
+07_earlene_noise_04.wav,earlene,noise,Thank you very much,thank you very much,0.0,0,0,0,4,1,234.1,4.5
+08_earlene_noise_04.wav,earlene,noise,Please wait a moment,please wait a moment,0.0,0,0,0,4,1,269.9,4.5
+09_earlene_noise_04.wav,earlene,noise,Do you need a bag?,no you need a back,0.4,2,0,0,5,0,249.0,4.5
+10_earlene_noise_04.wav,earlene,noise,Here is your change,here is your change,0.0,0,0,0,4,1,245.2,4.5
+01_earlene_noise_05.wav,earlene,noise,Please pay with cash,please pay with cash,0.0,0,0,0,4,1,240.5,4.5
+02_earlene_noise_05.wav,earlene,noise,Please pay with card,please pay with car,0.25,1,0,0,4,0,286.5,4.5
+03_earlene_noise_05.wav,earlene,noise,Please scan the QR code,please can you are gone,0.8,4,0,0,5,0,258.5,4.5
+04_earlene_noise_05.wav,earlene,noise,I don't have that,i don't have that,0.0,0,0,0,4,1,232.7,4.5
+05_earlene_noise_05.wav,earlene,noise,Sold out,out,0.5,0,1,0,2,0,250.9,4.5
+06_earlene_noise_05.wav,earlene,noise,How much is this?,how much is this,0.0,0,0,0,4,1,240.0,4.5
+07_earlene_noise_05.wav,earlene,noise,Thank you very much,thank you very much,0.0,0,0,0,4,1,295.8,4.5
+08_earlene_noise_05.wav,earlene,noise,Please wait a moment,please wait a moment,0.0,0,0,0,4,1,305.2,4.5
+09_earlene_noise_05.wav,earlene,noise,Do you need a bag?,do you need a bag,0.0,0,0,0,5,1,210.0,4.5
+10_earlene_noise_05.wav,earlene,noise,Here is your change,here is your change,0.0,0,0,0,4,1,196.0,4.5
+01_earlene_noise_06.wav,earlene,noise,Please pay with cash,please pay with cash,0.0,0,0,0,4,1,246.7,4.5
+02_earlene_noise_06.wav,earlene,noise,Please pay with card,please play with car,0.5,2,0,0,4,0,263.7,4.5
+03_earlene_noise_06.wav,earlene,noise,Please scan the QR code,can you are caught,1.0,4,1,0,5,0,247.3,4.5
+04_earlene_noise_06.wav,earlene,noise,I don't have that,i don't have that,0.0,0,0,0,4,1,223.0,4.5
+05_earlene_noise_06.wav,earlene,noise,Sold out,ah,1.0,1,1,0,2,0,259.3,4.5
+06_earlene_noise_06.wav,earlene,noise,How much is this?,how much is this,0.0,0,0,0,4,1,214.0,4.5
+07_earlene_noise_06.wav,earlene,noise,Thank you very much,thank you very much,0.0,0,0,0,4,1,226.8,4.5
+08_earlene_noise_06.wav,earlene,noise,Please wait a moment,please wait a moment,0.0,0,0,0,4,1,308.2,4.5
+09_earlene_noise_06.wav,earlene,noise,Do you need a bag?,door you and me back,0.8,4,0,0,5,0,250.8,4.5
+10_earlene_noise_06.wav,earlene,noise,Here is your change,here is your change,0.0,0,0,0,4,1,207.2,4.5
+01_earlene_noise_07.wav,earlene,noise,Please pay with cash,please pay with cash,0.0,0,0,0,4,1,199.8,4.5
+02_earlene_noise_07.wav,earlene,noise,Please pay with card,please pay with car,0.25,1,0,0,4,0,196.9,4.5
+03_earlene_noise_07.wav,earlene,noise,Please scan the QR code,can you are caught,1.0,4,1,0,5,0,273.8,4.5
+04_earlene_noise_07.wav,earlene,noise,I don't have that,i know and path that,0.75,2,0,1,4,0,347.9,4.5
+05_earlene_noise_07.wav,earlene,noise,Sold out,ah,1.0,1,1,0,2,0,253.8,4.5
+06_earlene_noise_07.wav,earlene,noise,How much is this?,how much is this,0.0,0,0,0,4,1,227.8,4.5
+07_earlene_noise_07.wav,earlene,noise,Thank you very much,thank you very much,0.0,0,0,0,4,1,217.1,4.5
+08_earlene_noise_07.wav,earlene,noise,Please wait a moment,wait a moment,0.25,0,1,0,4,0,241.2,4.5
+09_earlene_noise_07.wav,earlene,noise,Do you need a bag?,,1.0,0,5,0,5,0,212.7,4.5
+10_earlene_noise_07.wav,earlene,noise,Here is your change,here here's your change,0.25,1,0,0,4,0,234.0,4.5
+01_earlene_noise_08.wav,earlene,noise,Please pay with cash,please spare cash,0.5,1,1,0,4,0,288.3,4.5
+02_earlene_noise_08.wav,earlene,noise,Please pay with card,hi,1.0,1,3,0,4,0,242.8,4.5
+03_earlene_noise_08.wav,earlene,noise,Please scan the QR code,can you are caught,1.0,4,1,0,5,0,255.8,4.5
+04_earlene_noise_08.wav,earlene,noise,I don't have that,i don't pass that,0.25,1,0,0,4,0,204.5,4.5
+05_earlene_noise_08.wav,earlene,noise,Sold out,out,0.5,0,1,0,2,0,239.7,4.5
+06_earlene_noise_08.wav,earlene,noise,How much is this?,how much is this,0.0,0,0,0,4,1,203.4,4.5
+07_earlene_noise_08.wav,earlene,noise,Thank you very much,thank you very much,0.0,0,0,0,4,1,263.8,4.5
+08_earlene_noise_08.wav,earlene,noise,Please wait a moment,please wait a moment,0.0,0,0,0,4,1,219.2,4.5
+09_earlene_noise_08.wav,earlene,noise,Do you need a bag?,know your need of their,0.8,4,0,0,5,0,308.8,4.5
+10_earlene_noise_08.wav,earlene,noise,Here is your change,here as your change,0.25,1,0,0,4,0,236.6,4.5
+01_felicia_clean_01.wav,felicia,clean,Please pay with cash,please pay with cash,0.0,0,0,0,4,1,184.4,4.5
+02_felicia_clean_01.wav,felicia,clean,Please pay with card,please be with cart,0.5,2,0,0,4,0,200.9,4.5
+03_felicia_clean_01.wav,felicia,clean,Please scan the QR code,please scan the qr code,0.0,0,0,0,5,1,199.9,4.5
+04_felicia_clean_01.wav,felicia,clean,I don't have that,i don't have that,0.0,0,0,0,4,1,189.0,4.5
+05_felicia_clean_01.wav,felicia,clean,Sold out,sold out,0.0,0,0,0,2,1,178.2,4.5
+06_felicia_clean_01.wav,felicia,clean,How much is this?,how much is this,0.0,0,0,0,4,1,241.6,4.5
+07_felicia_clean_01.wav,felicia,clean,Thank you very much,thank you very much,0.0,0,0,0,4,1,236.5,4.5
+08_felicia_clean_01.wav,felicia,clean,Please wait a moment,please wait a moment,0.0,0,0,0,4,1,221.7,4.5
+09_felicia_clean_01.wav,felicia,clean,Do you need a bag?,do you need a back,0.2,1,0,0,5,0,202.2,4.5
+10_felicia_clean_01.wav,felicia,clean,Here is your change,here is your change,0.0,0,0,0,4,1,190.8,4.5
+01_felicia_clean_02.wav,felicia,clean,Please pay with cash,please pay with cash,0.0,0,0,0,4,1,179.2,4.5
+02_felicia_clean_02.wav,felicia,clean,Please pay with card,please be with cart,0.5,2,0,0,4,0,190.2,4.5
+03_felicia_clean_02.wav,felicia,clean,Please scan the QR code,please scan the qr code,0.0,0,0,0,5,1,199.1,4.5
+04_felicia_clean_02.wav,felicia,clean,I don't have that,i don't have that,0.0,0,0,0,4,1,207.8,4.5
+05_felicia_clean_02.wav,felicia,clean,Sold out,sold out,0.0,0,0,0,2,1,190.1,4.5
+06_felicia_clean_02.wav,felicia,clean,How much is this?,how much is this,0.0,0,0,0,4,1,201.9,4.5
+07_felicia_clean_02.wav,felicia,clean,Thank you very much,thank you very much,0.0,0,0,0,4,1,217.4,4.5
+08_felicia_clean_02.wav,felicia,clean,Please wait a moment,please wait a moment,0.0,0,0,0,4,1,189.9,4.5
+09_felicia_clean_02.wav,felicia,clean,Do you need a bag?,do you need of matt,0.4,2,0,0,5,0,265.7,4.5
+10_felicia_clean_02.wav,felicia,clean,Here is your change,here is your change,0.0,0,0,0,4,1,190.5,4.5
+01_felicia_clean_03.wav,felicia,clean,Please pay with cash,please pay with cash,0.0,0,0,0,4,1,177.3,4.5
+02_felicia_clean_03.wav,felicia,clean,Please pay with card,please with part,0.5,1,1,0,4,0,211.7,4.5
+03_felicia_clean_03.wav,felicia,clean,Please scan the QR code,please scan the qr code,0.0,0,0,0,5,1,217.5,4.5
+04_felicia_clean_03.wav,felicia,clean,I don't have that,i don't have that,0.0,0,0,0,4,1,200.0,4.5
+05_felicia_clean_03.wav,felicia,clean,Sold out,sold out,0.0,0,0,0,2,1,247.4,4.5
+06_felicia_clean_03.wav,felicia,clean,How much is this?,how much is this,0.0,0,0,0,4,1,183.8,4.5
+07_felicia_clean_03.wav,felicia,clean,Thank you very much,thank you very much,0.0,0,0,0,4,1,238.3,4.5
+08_felicia_clean_03.wav,felicia,clean,Please wait a moment,please wait a moment,0.0,0,0,0,4,1,203.0,4.5
+09_felicia_clean_03.wav,felicia,clean,Do you need a bag?,do you need of that,0.4,2,0,0,5,0,229.0,4.5
+10_felicia_clean_03.wav,felicia,clean,Here is your change,here is your change,0.0,0,0,0,4,1,181.1,4.5
+01_felicia_clean_04.wav,felicia,clean,Please pay with cash,please pay with cash,0.0,0,0,0,4,1,186.6,4.5
+02_felicia_clean_04.wav,felicia,clean,Please pay with card,please be with cart,0.5,2,0,0,4,0,195.1,4.5
+03_felicia_clean_04.wav,felicia,clean,Please scan the QR code,please scan the qr code,0.0,0,0,0,5,1,208.0,4.5
+04_felicia_clean_04.wav,felicia,clean,I don't have that,i don't have that,0.0,0,0,0,4,1,192.2,4.5
+05_felicia_clean_04.wav,felicia,clean,Sold out,sold out,0.0,0,0,0,2,1,187.0,4.5
+06_felicia_clean_04.wav,felicia,clean,How much is this?,how much is this,0.0,0,0,0,4,1,181.0,4.5
+07_felicia_clean_04.wav,felicia,clean,Thank you very much,thank you very much,0.0,0,0,0,4,1,184.0,4.5
+08_felicia_clean_04.wav,felicia,clean,Please wait a moment,please wait a moment,0.0,0,0,0,4,1,238.0,4.5
+09_felicia_clean_04.wav,felicia,clean,Do you need a bag?,the union a bath,0.8,3,1,0,5,0,212.9,4.5
+10_felicia_clean_04.wav,felicia,clean,Here is your change,here is your change,0.0,0,0,0,4,1,220.3,4.5
+01_felicia_clean_05.wav,felicia,clean,Please pay with cash,please pay with cash,0.0,0,0,0,4,1,191.5,4.5
+02_felicia_clean_05.wav,felicia,clean,Please pay with card,please be with card,0.25,1,0,0,4,0,181.8,4.5
+03_felicia_clean_05.wav,felicia,clean,Please scan the QR code,please scan the qr code,0.0,0,0,0,5,1,207.1,4.5
+04_felicia_clean_05.wav,felicia,clean,I don't have that,i don't have that,0.0,0,0,0,4,1,211.1,4.5
+05_felicia_clean_05.wav,felicia,clean,Sold out,so,1.0,1,1,0,2,0,270.0,4.5
+06_felicia_clean_05.wav,felicia,clean,How much is this?,how much is this,0.0,0,0,0,4,1,203.8,4.5
+07_felicia_clean_05.wav,felicia,clean,Thank you very much,thank you very much,0.0,0,0,0,4,1,190.1,4.5
+08_felicia_clean_05.wav,felicia,clean,Please wait a moment,please wait a moment,0.0,0,0,0,4,1,191.4,4.5
+09_felicia_clean_05.wav,felicia,clean,Do you need a bag?,do you need a back,0.2,1,0,0,5,0,190.6,4.5
+10_felicia_clean_05.wav,felicia,clean,Here is your change,here is your change,0.0,0,0,0,4,1,192.1,4.5
+01_felicia_clean_06.wav,felicia,clean,Please pay with cash,please pay with cash,0.0,0,0,0,4,1,234.8,4.5
+02_felicia_clean_06.wav,felicia,clean,Please pay with card,please pay with card,0.0,0,0,0,4,1,278.1,4.5
+03_felicia_clean_06.wav,felicia,clean,Please scan the QR code,please scan the qr code,0.0,0,0,0,5,1,237.9,4.5
+04_felicia_clean_06.wav,felicia,clean,I don't have that,i don't have that,0.0,0,0,0,4,1,193.0,4.5
+05_felicia_clean_06.wav,felicia,clean,Sold out,sold out,0.0,0,0,0,2,1,188.1,4.5
+06_felicia_clean_06.wav,felicia,clean,How much is this?,how much is this,0.0,0,0,0,4,1,177.0,4.5
+07_felicia_clean_06.wav,felicia,clean,Thank you very much,thank you very much,0.0,0,0,0,4,1,203.8,4.5
+08_felicia_clean_06.wav,felicia,clean,Please wait a moment,please wait a moment,0.0,0,0,0,4,1,212.4,4.5
+09_felicia_clean_06.wav,felicia,clean,Do you need a bag?,do you need a back,0.2,1,0,0,5,0,210.7,4.5
+10_felicia_clean_06.wav,felicia,clean,Here is your change,here is your change,0.0,0,0,0,4,1,203.9,4.5
+01_felicia_clean_07.wav,felicia,clean,Please pay with cash,please pay with cash,0.0,0,0,0,4,1,221.1,4.5
+02_felicia_clean_07.wav,felicia,clean,Please pay with card,please pay with part,0.25,1,0,0,4,0,225.1,4.5
+03_felicia_clean_07.wav,felicia,clean,Please scan the QR code,please scan the qr code,0.0,0,0,0,5,1,205.0,4.5
+04_felicia_clean_07.wav,felicia,clean,I don't have that,i don't have that,0.0,0,0,0,4,1,198.6,4.5
+05_felicia_clean_07.wav,felicia,clean,Sold out,sold out,0.0,0,0,0,2,1,172.1,4.5
+06_felicia_clean_07.wav,felicia,clean,How much is this?,how much is this,0.0,0,0,0,4,1,190.0,4.5
+07_felicia_clean_07.wav,felicia,clean,Thank you very much,thank you very much,0.0,0,0,0,4,1,209.0,4.5
+08_felicia_clean_07.wav,felicia,clean,Please wait a moment,please wait a moment,0.0,0,0,0,4,1,217.3,4.5
+09_felicia_clean_07.wav,felicia,clean,Do you need a bag?,do you need a back,0.2,1,0,0,5,0,270.6,4.5
+10_felicia_clean_07.wav,felicia,clean,Here is your change,here is your change,0.0,0,0,0,4,1,211.7,4.5
+01_felicia_clean_08.wav,felicia,clean,Please pay with cash,please pay with cash,0.0,0,0,0,4,1,252.2,4.5
+02_felicia_clean_08.wav,felicia,clean,Please pay with card,please pay with cart,0.25,1,0,0,4,0,178.0,4.5
+03_felicia_clean_08.wav,felicia,clean,Please scan the QR code,please can the qr code,0.2,1,0,0,5,0,208.0,4.5
+04_felicia_clean_08.wav,felicia,clean,I don't have that,i don't have that,0.0,0,0,0,4,1,203.0,4.5
+05_felicia_clean_08.wav,felicia,clean,Sold out,sold out,0.0,0,0,0,2,1,207.9,4.5
+06_felicia_clean_08.wav,felicia,clean,How much is this?,how much is this,0.0,0,0,0,4,1,225.1,4.5
+07_felicia_clean_08.wav,felicia,clean,Thank you very much,thank you very much,0.0,0,0,0,4,1,188.7,4.5
+08_felicia_clean_08.wav,felicia,clean,Please wait a moment,please wait a moment,0.0,0,0,0,4,1,197.5,4.5
+09_felicia_clean_08.wav,felicia,clean,Do you need a bag?,do you need a back,0.2,1,0,0,5,0,189.6,4.5
+10_felicia_clean_08.wav,felicia,clean,Here is your change,here is your change,0.0,0,0,0,4,1,185.8,4.5
+01_mipang_clean_01.wav,mipang,clean,Please pay with cash,please pay with cash,0.0,0,0,0,4,1,216.4,4.5
+02_mipang_clean_01.wav,mipang,clean,Please pay with card,please be with card,0.25,1,0,0,4,0,259.8,4.5
+03_mipang_clean_01.wav,mipang,clean,Please scan the QR code,this kinda q or go,1.0,5,0,0,5,0,290.4,4.5
+04_mipang_clean_01.wav,mipang,clean,I don't have that,i don't have that,0.0,0,0,0,4,1,238.9,4.5
+05_mipang_clean_01.wav,mipang,clean,Sold out,so oh,1.0,2,0,0,2,0,204.6,4.5
+06_mipang_clean_01.wav,mipang,clean,How much is this?,how much is this,0.0,0,0,0,4,1,250.6,4.5
+07_mipang_clean_01.wav,mipang,clean,Thank you very much,thank you very much,0.0,0,0,0,4,1,189.5,4.5
+08_mipang_clean_01.wav,mipang,clean,Please wait a moment,please wait the moment,0.25,1,0,0,4,0,212.1,4.5
+09_mipang_clean_01.wav,mipang,clean,Do you need a bag?,do you need the back,0.4,2,0,0,5,0,251.1,4.5
+10_mipang_clean_01.wav,mipang,clean,Here is your change,here is your change,0.0,0,0,0,4,1,177.8,4.5
+01_mipang_clean_02.wav,mipang,clean,Please pay with cash,please pay with cash,0.0,0,0,0,4,1,235.9,4.5
+02_mipang_clean_02.wav,mipang,clean,Please pay with card,this be with card,0.5,2,0,0,4,0,223.1,4.5
+03_mipang_clean_02.wav,mipang,clean,Please scan the QR code,please scan the qr code,0.0,0,0,0,5,1,255.1,4.5
+04_mipang_clean_02.wav,mipang,clean,I don't have that,i don't have that,0.0,0,0,0,4,1,221.8,4.5
+05_mipang_clean_02.wav,mipang,clean,Sold out,so oh,1.0,2,0,0,2,0,188.2,4.5
+06_mipang_clean_02.wav,mipang,clean,How much is this?,how much is this,0.0,0,0,0,4,1,207.9,4.5
+07_mipang_clean_02.wav,mipang,clean,Thank you very much,thank you very much,0.0,0,0,0,4,1,233.2,4.5
+08_mipang_clean_02.wav,mipang,clean,Please wait a moment,please wait a moment,0.0,0,0,0,4,1,233.0,4.5
+09_mipang_clean_02.wav,mipang,clean,Do you need a bag?,do you need to back,0.4,2,0,0,5,0,243.9,4.5
+10_mipang_clean_02.wav,mipang,clean,Here is your change,here is your change,0.0,0,0,0,4,1,190.8,4.5
+01_mipang_clean_03.wav,mipang,clean,Please pay with cash,please pay with cash,0.0,0,0,0,4,1,197.0,4.5
+02_mipang_clean_03.wav,mipang,clean,Please pay with card,please be with card,0.25,1,0,0,4,0,224.1,4.5
+03_mipang_clean_03.wav,mipang,clean,Please scan the QR code,we scan the qr code,0.2,1,0,0,5,0,273.0,4.5
+04_mipang_clean_03.wav,mipang,clean,I don't have that,i don't have that,0.0,0,0,0,4,1,209.8,4.5
+05_mipang_clean_03.wav,mipang,clean,Sold out,sold out,0.0,0,0,0,2,1,206.3,4.5
+06_mipang_clean_03.wav,mipang,clean,How much is this?,oh let's use this,0.75,3,0,0,4,0,302.0,4.5
+07_mipang_clean_03.wav,mipang,clean,Thank you very much,thank you very much,0.0,0,0,0,4,1,210.8,4.5
+08_mipang_clean_03.wav,mipang,clean,Please wait a moment,please wait a moment,0.0,0,0,0,4,1,185.5,4.5
+09_mipang_clean_03.wav,mipang,clean,Do you need a bag?,do you need the back,0.4,2,0,0,5,0,206.0,4.5
+10_mipang_clean_03.wav,mipang,clean,Here is your change,here is your change,0.0,0,0,0,4,1,189.1,4.5
+01_mipang_clean_04.wav,mipang,clean,Please pay with cash,please pay with cash,0.0,0,0,0,4,1,190.1,4.5
+02_mipang_clean_04.wav,mipang,clean,Please pay with card,please be with card,0.25,1,0,0,4,0,210.9,4.5
+03_mipang_clean_04.wav,mipang,clean,Please scan the QR code,they scan the qr code,0.2,1,0,0,5,0,209.1,4.5
+04_mipang_clean_04.wav,mipang,clean,I don't have that,i don't have that,0.0,0,0,0,4,1,204.9,4.5
+05_mipang_clean_04.wav,mipang,clean,Sold out,sold out,0.0,0,0,0,2,1,193.0,4.5
+06_mipang_clean_04.wav,mipang,clean,How much is this?,how much is this,0.0,0,0,0,4,1,176.8,4.5
+07_mipang_clean_04.wav,mipang,clean,Thank you very much,thank you very much,0.0,0,0,0,4,1,198.2,4.5
+08_mipang_clean_04.wav,mipang,clean,Please wait a moment,please wait a moment,0.0,0,0,0,4,1,258.0,4.5
+09_mipang_clean_04.wav,mipang,clean,Do you need a bag?,do you need the back,0.4,2,0,0,5,0,213.7,4.5
+10_mipang_clean_04.wav,mipang,clean,Here is your change,here is your change,0.0,0,0,0,4,1,184.2,4.5
+01_mipang_clean_05.wav,mipang,clean,Please pay with cash,please pay with cash,0.0,0,0,0,4,1,246.8,4.5
+02_mipang_clean_05.wav,mipang,clean,Please pay with card,please be with card,0.25,1,0,0,4,0,204.1,4.5
+03_mipang_clean_05.wav,mipang,clean,Please scan the QR code,please scan the qr code,0.0,0,0,0,5,1,232.0,4.5
+04_mipang_clean_05.wav,mipang,clean,I don't have that,i don't have that,0.0,0,0,0,4,1,179.0,4.5
+05_mipang_clean_05.wav,mipang,clean,Sold out,sold out,0.0,0,0,0,2,1,261.8,4.5
+06_mipang_clean_05.wav,mipang,clean,How much is this?,how much is this,0.0,0,0,0,4,1,207.1,4.5
+07_mipang_clean_05.wav,mipang,clean,Thank you very much,thank you very much,0.0,0,0,0,4,1,179.2,4.5
+08_mipang_clean_05.wav,mipang,clean,Please wait a moment,please wait a moment,0.0,0,0,0,4,1,209.8,4.5
+09_mipang_clean_05.wav,mipang,clean,Do you need a bag?,the back,1.0,2,3,0,5,0,238.9,4.5
+10_mipang_clean_05.wav,mipang,clean,Here is your change,here is your change,0.0,0,0,0,4,1,182.2,4.5
+01_mipang_clean_06.wav,mipang,clean,Please pay with cash,please pay with cash,0.0,0,0,0,4,1,238.0,4.5
+02_mipang_clean_06.wav,mipang,clean,Please pay with card,please pray with card,0.25,1,0,0,4,0,269.2,4.5
+03_mipang_clean_06.wav,mipang,clean,Please scan the QR code,this you are code,0.8,3,1,0,5,0,219.8,4.5
+04_mipang_clean_06.wav,mipang,clean,I don't have that,i don't have that,0.0,0,0,0,4,1,186.1,4.5
+05_mipang_clean_06.wav,mipang,clean,Sold out,sold out,0.0,0,0,0,2,1,186.8,4.5
+06_mipang_clean_06.wav,mipang,clean,How much is this?,how much is this,0.0,0,0,0,4,1,236.2,4.5
+07_mipang_clean_06.wav,mipang,clean,Thank you very much,thank you very much,0.0,0,0,0,4,1,208.8,4.5
+08_mipang_clean_06.wav,mipang,clean,Please wait a moment,way the moment,0.75,2,1,0,4,0,254.0,4.5
+09_mipang_clean_06.wav,mipang,clean,Do you need a bag?,do you need the back,0.4,2,0,0,5,0,187.7,4.5
+10_mipang_clean_06.wav,mipang,clean,Here is your change,here is your change,0.0,0,0,0,4,1,184.4,4.5
+01_mipang_clean_07.wav,mipang,clean,Please pay with cash,please pay with cash,0.0,0,0,0,4,1,198.6,4.5
+02_mipang_clean_07.wav,mipang,clean,Please pay with card,please stay with cart,0.5,2,0,0,4,0,288.1,4.5
+03_mipang_clean_07.wav,mipang,clean,Please scan the QR code,they scan the qr code,0.2,1,0,0,5,0,214.2,4.5
+04_mipang_clean_07.wav,mipang,clean,I don't have that,i don't have that,0.0,0,0,0,4,1,211.1,4.5
+05_mipang_clean_07.wav,mipang,clean,Sold out,sold out,0.0,0,0,0,2,1,197.9,4.5
+06_mipang_clean_07.wav,mipang,clean,How much is this?,how much is this,0.0,0,0,0,4,1,175.7,4.5
+07_mipang_clean_07.wav,mipang,clean,Thank you very much,thank you very much,0.0,0,0,0,4,1,178.6,4.5
+08_mipang_clean_07.wav,mipang,clean,Please wait a moment,please wait a moment,0.0,0,0,0,4,1,235.6,4.5
+09_mipang_clean_07.wav,mipang,clean,Do you need a bag?,do you need of that,0.4,2,0,0,5,0,246.9,4.5
+10_mipang_clean_07.wav,mipang,clean,Here is your change,here is your change,0.0,0,0,0,4,1,206.2,4.5
+01_mipang_clean_08.wav,mipang,clean,Please pay with cash,please pay with cash,0.0,0,0,0,4,1,221.9,4.5
+02_mipang_clean_08.wav,mipang,clean,Please pay with card,please stay with card,0.25,1,0,0,4,0,205.2,4.5
+03_mipang_clean_08.wav,mipang,clean,Please scan the QR code,please kinda que article,0.8,3,1,0,5,0,266.8,4.5
+04_mipang_clean_08.wav,mipang,clean,I don't have that,i don't have that,0.0,0,0,0,4,1,176.0,4.5
+05_mipang_clean_08.wav,mipang,clean,Sold out,sold out,0.0,0,0,0,2,1,210.1,4.5
+06_mipang_clean_08.wav,mipang,clean,How much is this?,how much is this,0.0,0,0,0,4,1,216.0,4.5
+07_mipang_clean_08.wav,mipang,clean,Thank you very much,thank you very much,0.0,0,0,0,4,1,176.3,4.5
+08_mipang_clean_08.wav,mipang,clean,Please wait a moment,this way the moment,0.75,3,0,0,4,0,262.1,4.5
+09_mipang_clean_08.wav,mipang,clean,Do you need a bag?,do you need to back,0.4,2,0,0,5,0,226.1,4.5
+10_mipang_clean_08.wav,mipang,clean,Here is your change,here is your change,0.0,0,0,0,4,1,181.1,4.5
+01_mipang_noise_01.wav,mipang,noise,Please pay with cash,,1.0,0,4,0,4,0,220.1,4.5
+02_mipang_noise_01.wav,mipang,noise,Please pay with card,,1.0,0,4,0,4,0,196.6,4.5
+03_mipang_noise_01.wav,mipang,noise,Please scan the QR code,,1.0,0,5,0,5,0,223.0,4.5
+04_mipang_noise_01.wav,mipang,noise,I don't have that,hi,1.0,1,3,0,4,0,219.4,4.5
+05_mipang_noise_01.wav,mipang,noise,Sold out,,1.0,0,2,0,2,0,243.9,4.5
+06_mipang_noise_01.wav,mipang,noise,How much is this?,how much,0.5,0,2,0,4,0,242.9,4.5
+07_mipang_noise_01.wav,mipang,noise,Thank you very much,,1.0,0,4,0,4,0,190.0,4.5
+08_mipang_noise_01.wav,mipang,noise,Please wait a moment,please,0.75,0,3,0,4,0,294.0,4.5
+09_mipang_noise_01.wav,mipang,noise,Do you need a bag?,,1.0,0,5,0,5,0,196.8,4.5
+10_mipang_noise_01.wav,mipang,noise,Here is your change,yeah,1.0,1,3,0,4,0,227.4,4.5
+01_mipang_noise_02.wav,mipang,noise,Please pay with cash,,1.0,0,4,0,4,0,178.6,4.5
+02_mipang_noise_02.wav,mipang,noise,Please pay with card,,1.0,0,4,0,4,0,225.4,4.5
+03_mipang_noise_02.wav,mipang,noise,Please scan the QR code,,1.0,0,5,0,5,0,201.7,4.5
+04_mipang_noise_02.wav,mipang,noise,I don't have that,i have,0.5,0,2,0,4,0,234.7,4.5
+05_mipang_noise_02.wav,mipang,noise,Sold out,,1.0,0,2,0,2,0,186.4,4.5
+06_mipang_noise_02.wav,mipang,noise,How much is this?,how much,0.5,0,2,0,4,0,183.7,4.5
+07_mipang_noise_02.wav,mipang,noise,Thank you very much,,1.0,0,4,0,4,0,188.5,4.5
+08_mipang_noise_02.wav,mipang,noise,Please wait a moment,,1.0,0,4,0,4,0,235.7,4.5
+09_mipang_noise_02.wav,mipang,noise,Do you need a bag?,,1.0,0,5,0,5,0,184.8,4.5
+10_mipang_noise_02.wav,mipang,noise,Here is your change,,1.0,0,4,0,4,0,199.9,4.5
+01_mipang_noise_03.wav,mipang,noise,Please pay with cash,,1.0,0,4,0,4,0,191.3,4.5
+02_mipang_noise_03.wav,mipang,noise,Please pay with card,,1.0,0,4,0,4,0,186.7,4.5
+03_mipang_noise_03.wav,mipang,noise,Please scan the QR code,please,0.8,0,4,0,5,0,224.1,4.5
+04_mipang_noise_03.wav,mipang,noise,I don't have that,,1.0,0,4,0,4,0,246.0,4.5
+05_mipang_noise_03.wav,mipang,noise,Sold out,,1.0,0,2,0,2,0,172.1,4.5
+06_mipang_noise_03.wav,mipang,noise,How much is this?,how much,0.5,0,2,0,4,0,255.7,4.5
+07_mipang_noise_03.wav,mipang,noise,Thank you very much,,1.0,0,4,0,4,0,196.8,4.5
+08_mipang_noise_03.wav,mipang,noise,Please wait a moment,,1.0,0,4,0,4,0,238.9,4.5
+09_mipang_noise_03.wav,mipang,noise,Do you need a bag?,,1.0,0,5,0,5,0,218.5,4.5
+10_mipang_noise_03.wav,mipang,noise,Here is your change,,1.0,0,4,0,4,0,214.4,4.5
+01_mipang_noise_04.wav,mipang,noise,Please pay with cash,,1.0,0,4,0,4,0,222.2,4.5
+02_mipang_noise_04.wav,mipang,noise,Please pay with card,please,0.75,0,3,0,4,0,218.1,4.5
+03_mipang_noise_04.wav,mipang,noise,Please scan the QR code,,1.0,0,5,0,5,0,215.5,4.5
+04_mipang_noise_04.wav,mipang,noise,I don't have that,,1.0,0,4,0,4,0,195.6,4.5
+05_mipang_noise_04.wav,mipang,noise,Sold out,,1.0,0,2,0,2,0,213.3,4.5
+06_mipang_noise_04.wav,mipang,noise,How much is this?,,1.0,0,4,0,4,0,202.0,4.5
+07_mipang_noise_04.wav,mipang,noise,Thank you very much,thank you very much,0.0,0,0,0,4,1,203.9,4.5
+08_mipang_noise_04.wav,mipang,noise,Please wait a moment,please,0.75,0,3,0,4,0,213.0,4.5
+09_mipang_noise_04.wav,mipang,noise,Do you need a bag?,,1.0,0,5,0,5,0,179.9,4.5
+10_mipang_noise_04.wav,mipang,noise,Here is your change,,1.0,0,4,0,4,0,277.9,4.5
+01_mipang_noise_05.wav,mipang,noise,Please pay with cash,,1.0,0,4,0,4,0,199.4,4.5
+02_mipang_noise_05.wav,mipang,noise,Please pay with card,please pain,0.75,1,2,0,4,0,352.9,4.5
+03_mipang_noise_05.wav,mipang,noise,Please scan the QR code,,1.0,0,5,0,5,0,276.1,4.5
+04_mipang_noise_05.wav,mipang,noise,I don't have that,there,1.0,1,3,0,4,0,226.9,4.5
+05_mipang_noise_05.wav,mipang,noise,Sold out,,1.0,0,2,0,2,0,170.9,4.5
+06_mipang_noise_05.wav,mipang,noise,How much is this?,how much,0.5,0,2,0,4,0,243.1,4.5
+07_mipang_noise_05.wav,mipang,noise,Thank you very much,,1.0,0,4,0,4,0,221.0,4.5
+08_mipang_noise_05.wav,mipang,noise,Please wait a moment,please,0.75,0,3,0,4,0,274.9,4.5
+09_mipang_noise_05.wav,mipang,noise,Do you need a bag?,,1.0,0,5,0,5,0,215.3,4.5
+10_mipang_noise_05.wav,mipang,noise,Here is your change,,1.0,0,4,0,4,0,199.7,4.5
+01_mipang_noise_06.wav,mipang,noise,Please pay with cash,yes,1.0,1,3,0,4,0,241.9,4.5
+02_mipang_noise_06.wav,mipang,noise,Please pay with card,,1.0,0,4,0,4,0,211.0,4.5
+03_mipang_noise_06.wav,mipang,noise,Please scan the QR code,,1.0,0,5,0,5,0,184.2,4.5
+04_mipang_noise_06.wav,mipang,noise,I don't have that,i have that,0.25,0,1,0,4,0,300.9,4.5
+05_mipang_noise_06.wav,mipang,noise,Sold out,,1.0,0,2,0,2,0,211.9,4.5
+06_mipang_noise_06.wav,mipang,noise,How much is this?,how much nice,0.5,1,1,0,4,0,332.1,4.5
+07_mipang_noise_06.wav,mipang,noise,Thank you very much,,1.0,0,4,0,4,0,194.9,4.5
+08_mipang_noise_06.wav,mipang,noise,Please wait a moment,this way,1.0,2,2,0,4,0,257.1,4.5
+09_mipang_noise_06.wav,mipang,noise,Do you need a bag?,,1.0,0,5,0,5,0,195.8,4.5
+10_mipang_noise_06.wav,mipang,noise,Here is your change,,1.0,0,4,0,4,0,201.2,4.5
+01_mipang_noise_07.wav,mipang,noise,Please pay with cash,,1.0,0,4,0,4,0,225.9,4.5
+02_mipang_noise_07.wav,mipang,noise,Please pay with card,,1.0,0,4,0,4,0,189.5,4.5
+03_mipang_noise_07.wav,mipang,noise,Please scan the QR code,ten,1.0,1,4,0,5,0,279.4,4.5
+04_mipang_noise_07.wav,mipang,noise,I don't have that,i have for that,0.5,2,0,0,4,0,402.3,4.5
+05_mipang_noise_07.wav,mipang,noise,Sold out,,1.0,0,2,0,2,0,227.0,4.5
+06_mipang_noise_07.wav,mipang,noise,How much is this?,how much space,0.5,1,1,0,4,0,248.9,4.5
+07_mipang_noise_07.wav,mipang,noise,Thank you very much,,1.0,0,4,0,4,0,197.1,4.5
+08_mipang_noise_07.wav,mipang,noise,Please wait a moment,this way,1.0,2,2,0,4,0,256.0,4.5
+09_mipang_noise_07.wav,mipang,noise,Do you need a bag?,,1.0,0,5,0,5,0,189.0,4.5
+10_mipang_noise_07.wav,mipang,noise,Here is your change,,1.0,0,4,0,4,0,200.9,4.5
+01_mipang_noise_08.wav,mipang,noise,Please pay with cash,please,0.75,0,3,0,4,0,251.2,4.5
+02_mipang_noise_08.wav,mipang,noise,Please pay with card,,1.0,0,4,0,4,0,245.7,4.5
+03_mipang_noise_08.wav,mipang,noise,Please scan the QR code,q,1.0,1,4,0,5,0,234.1,4.5
+04_mipang_noise_08.wav,mipang,noise,I don't have that,,1.0,0,4,0,4,0,252.9,4.5
+05_mipang_noise_08.wav,mipang,noise,Sold out,so,1.0,1,1,0,2,0,200.2,4.5
+06_mipang_noise_08.wav,mipang,noise,How much is this?,how much,0.5,0,2,0,4,0,211.9,4.5
+07_mipang_noise_08.wav,mipang,noise,Thank you very much,very,0.75,0,3,0,4,0,216.7,4.5
+08_mipang_noise_08.wav,mipang,noise,Please wait a moment,,1.0,0,4,0,4,0,281.1,4.5
+09_mipang_noise_08.wav,mipang,noise,Do you need a bag?,,1.0,0,5,0,5,0,178.1,4.5
+10_mipang_noise_08.wav,mipang,noise,Here is your change,,1.0,0,4,0,4,0,188.6,4.5
+01_felicia_noise_01.wav,felicia,noise,Please pay with cash,get,1.0,1,3,0,4,0,241.1,4.5
+02_felicia_noise_01.wav,felicia,noise,Please pay with card,hi,1.0,1,3,0,4,0,197.1,4.5
+03_felicia_noise_01.wav,felicia,noise,Please scan the QR code,two are cool,1.0,3,2,0,5,0,296.3,4.5
+04_felicia_noise_01.wav,felicia,noise,I don't have that,i don't have that,0.0,0,0,0,4,1,191.2,4.5
+05_felicia_noise_01.wav,felicia,noise,Sold out,so out,0.5,1,0,0,2,0,231.8,4.5
+06_felicia_noise_01.wav,felicia,noise,How much is this?,how much is this,0.0,0,0,0,4,1,266.8,4.5
+07_felicia_noise_01.wav,felicia,noise,Thank you very much,,1.0,0,4,0,4,0,201.1,4.5
+08_felicia_noise_01.wav,felicia,noise,Please wait a moment,,1.0,0,4,0,4,0,204.0,4.5
+09_felicia_noise_01.wav,felicia,noise,Do you need a bag?,,1.0,0,5,0,5,0,219.9,4.5
+10_felicia_noise_01.wav,felicia,noise,Here is your change,here seems,0.75,1,2,0,4,0,307.3,4.5
+01_felicia_noise_02.wav,felicia,noise,Please pay with cash,cash,0.75,0,3,0,4,0,285.8,4.5
+02_felicia_noise_02.wav,felicia,noise,Please pay with card,please read card,0.5,1,1,0,4,0,314.8,4.5
+03_felicia_noise_02.wav,felicia,noise,Please scan the QR code,can you are,1.0,3,2,0,5,0,382.1,4.5
+04_felicia_noise_02.wav,felicia,noise,I don't have that,i don't have that,0.0,0,0,0,4,1,189.0,4.5
+05_felicia_noise_02.wav,felicia,noise,Sold out,i,1.0,1,1,0,2,0,211.2,4.5
+06_felicia_noise_02.wav,felicia,noise,How much is this?,how much is this,0.0,0,0,0,4,1,210.0,4.5
+07_felicia_noise_02.wav,felicia,noise,Thank you very much,,1.0,0,4,0,4,0,232.9,4.5
+08_felicia_noise_02.wav,felicia,noise,Please wait a moment,please,0.75,0,3,0,4,0,265.4,4.5
+09_felicia_noise_02.wav,felicia,noise,Do you need a bag?,back,1.0,1,4,0,5,0,225.5,4.5
+10_felicia_noise_02.wav,felicia,noise,Here is your change,here nineteen,0.75,1,2,0,4,0,291.3,4.5
+01_felicia_noise_03.wav,felicia,noise,Please pay with cash,please get,0.75,1,2,0,4,0,234.0,4.5
+02_felicia_noise_03.wav,felicia,noise,Please pay with card,this guy,1.0,2,2,0,4,0,217.9,4.5
+03_felicia_noise_03.wav,felicia,noise,Please scan the QR code,please can you are cool,0.8,4,0,0,5,0,332.8,4.5
+04_felicia_noise_03.wav,felicia,noise,I don't have that,i don't have that,0.0,0,0,0,4,1,192.3,4.5
+05_felicia_noise_03.wav,felicia,noise,Sold out,,1.0,0,2,0,2,0,224.0,4.5
+06_felicia_noise_03.wav,felicia,noise,How much is this?,how much is this,0.0,0,0,0,4,1,232.0,4.5
+07_felicia_noise_03.wav,felicia,noise,Thank you very much,,1.0,0,4,0,4,0,241.1,4.5
+08_felicia_noise_03.wav,felicia,noise,Please wait a moment,,1.0,0,4,0,4,0,218.3,4.5
+09_felicia_noise_03.wav,felicia,noise,Do you need a bag?,,1.0,0,5,0,5,0,202.0,4.5
+10_felicia_noise_03.wav,felicia,noise,Here is your change,fair,1.0,1,3,0,4,0,257.0,4.5
+01_felicia_noise_04.wav,felicia,noise,Please pay with cash,gosh,1.0,1,3,0,4,0,233.9,4.5
+02_felicia_noise_04.wav,felicia,noise,Please pay with card,race card,0.75,1,2,0,4,0,249.1,4.5
+03_felicia_noise_04.wav,felicia,noise,Please scan the QR code,please can do qr code,0.4,2,0,0,5,0,250.9,4.5
+04_felicia_noise_04.wav,felicia,noise,I don't have that,i don't have that,0.0,0,0,0,4,1,188.1,4.5
+05_felicia_noise_04.wav,felicia,noise,Sold out,so,1.0,1,1,0,2,0,222.0,4.5
+06_felicia_noise_04.wav,felicia,noise,How much is this?,how much is this,0.0,0,0,0,4,1,192.2,4.5
+07_felicia_noise_04.wav,felicia,noise,Thank you very much,thank you very much,0.0,0,0,0,4,1,305.6,4.5
+08_felicia_noise_04.wav,felicia,noise,Please wait a moment,please,0.75,0,3,0,4,0,219.8,4.5
+09_felicia_noise_04.wav,felicia,noise,Do you need a bag?,yeah,1.0,1,4,0,5,0,234.3,4.5
+10_felicia_noise_04.wav,felicia,noise,Here is your change,here chief,0.75,1,2,0,4,0,253.1,4.5
+01_felicia_noise_05.wav,felicia,noise,Please pay with cash,please spare cash,0.5,1,1,0,4,0,290.8,4.5
+02_felicia_noise_05.wav,felicia,noise,Please pay with card,guy,1.0,1,3,0,4,0,272.2,4.5
+03_felicia_noise_05.wav,felicia,noise,Please scan the QR code,please get to our code,0.6,3,0,0,5,0,342.3,4.5
+04_felicia_noise_05.wav,felicia,noise,I don't have that,i don't have that,0.0,0,0,0,4,1,201.7,4.5
+05_felicia_noise_05.wav,felicia,noise,Sold out,i,1.0,1,1,0,2,0,265.7,4.5
+06_felicia_noise_05.wav,felicia,noise,How much is this?,how is this,0.25,0,1,0,4,0,250.2,4.5
+07_felicia_noise_05.wav,felicia,noise,Thank you very much,too much,0.75,1,2,0,4,0,441.8,4.5
+08_felicia_noise_05.wav,felicia,noise,Please wait a moment,please no man,0.75,2,1,0,4,0,341.2,4.5
+09_felicia_noise_05.wav,felicia,noise,Do you need a bag?,,1.0,0,5,0,5,0,221.1,4.5
+10_felicia_noise_05.wav,felicia,noise,Here is your change,here,0.75,0,3,0,4,0,277.8,4.5
+01_felicia_noise_06.wav,felicia,noise,Please pay with cash,please spare cash,0.5,1,1,0,4,0,248.0,4.5
+02_felicia_noise_06.wav,felicia,noise,Please pay with card,please card,0.5,0,2,0,4,0,210.3,4.5
+03_felicia_noise_06.wav,felicia,noise,Please scan the QR code,are,1.0,1,4,0,5,0,426.5,4.5
+04_felicia_noise_06.wav,felicia,noise,I don't have that,i don't have that,0.0,0,0,0,4,1,202.1,4.5
+05_felicia_noise_06.wav,felicia,noise,Sold out,so,1.0,1,1,0,2,0,279.3,4.5
+06_felicia_noise_06.wav,felicia,noise,How much is this?,how much is this,0.0,0,0,0,4,1,238.0,4.5
+07_felicia_noise_06.wav,felicia,noise,Thank you very much,they very much,0.5,1,1,0,4,0,278.8,4.5
+08_felicia_noise_06.wav,felicia,noise,Please wait a moment,guys,1.0,1,3,0,4,0,260.2,4.5
+09_felicia_noise_06.wav,felicia,noise,Do you need a bag?,,1.0,0,5,0,5,0,196.2,4.5
+10_felicia_noise_06.wav,felicia,noise,Here is your change,here is your james,0.25,1,0,0,4,0,241.8,4.5
+01_felicia_noise_07.wav,felicia,noise,Please pay with cash,yeah,1.0,1,3,0,4,0,256.1,4.5
+02_felicia_noise_07.wav,felicia,noise,Please pay with card,please bear with card,0.25,1,0,0,4,0,277.0,4.5
+03_felicia_noise_07.wav,felicia,noise,Please scan the QR code,i thought,1.0,2,3,0,5,0,324.8,4.5
+04_felicia_noise_07.wav,felicia,noise,I don't have that,i don't have that,0.0,0,0,0,4,1,215.2,4.5
+05_felicia_noise_07.wav,felicia,noise,Sold out,sold out,0.0,0,0,0,2,1,207.1,4.5
+06_felicia_noise_07.wav,felicia,noise,How much is this?,how much is this,0.0,0,0,0,4,1,206.8,4.5
+07_felicia_noise_07.wav,felicia,noise,Thank you very much,thank you very much,0.0,0,0,0,4,1,223.4,4.5
+08_felicia_noise_07.wav,felicia,noise,Please wait a moment,please,0.75,0,3,0,4,0,212.6,4.5
+09_felicia_noise_07.wav,felicia,noise,Do you need a bag?,back,1.0,1,4,0,5,0,274.6,4.5
+10_felicia_noise_07.wav,felicia,noise,Here is your change,here teams,0.75,1,2,0,4,0,231.5,4.5
+01_felicia_noise_08.wav,felicia,noise,Please pay with cash,caf,1.0,1,3,0,4,0,238.1,4.5
+02_felicia_noise_08.wav,felicia,noise,Please pay with card,police car,1.0,2,2,0,4,0,219.1,4.5
+03_felicia_noise_08.wav,felicia,noise,Please scan the QR code,this can the qr code,0.4,2,0,0,5,0,289.9,4.5
+04_felicia_noise_08.wav,felicia,noise,I don't have that,i don't have that,0.0,0,0,0,4,1,197.9,4.5
+05_felicia_noise_08.wav,felicia,noise,Sold out,so i,1.0,2,0,0,2,0,240.4,4.5
+06_felicia_noise_08.wav,felicia,noise,How much is this?,how much is this,0.0,0,0,0,4,1,200.9,4.5
+07_felicia_noise_08.wav,felicia,noise,Thank you very much,they very much,0.5,1,1,0,4,0,300.7,4.5
+08_felicia_noise_08.wav,felicia,noise,Please wait a moment,please wait a moment,0.0,0,0,0,4,1,213.3,4.5
+09_felicia_noise_08.wav,felicia,noise,Do you need a bag?,that,1.0,1,4,0,5,0,216.4,4.5
+10_felicia_noise_08.wav,felicia,noise,Here is your change,here is change,0.25,0,1,0,4,0,327.5,4.5
