@@ -14,7 +14,7 @@ import numpy as np
 import sounddevice as sd
 from vosk import Model, KaldiRecognizer
 
-import penilai as P          # logika penilaian (fitur MFCC manual + DTW + Vosk), diuji oleh eval_penilai.py
+import penilai as P         
 from scorer import OTHER
 
 MODEL_DIR = "model"
@@ -37,6 +37,18 @@ LESSONS = [
     ("Here is your change", "Ini kembaliannya"),
 ]
 
+PRONUNCIATION = {
+    "Please pay with cash": "/pliːz peɪ wɪð kæʃ/",
+    "Please pay with card": "/pliːz peɪ wɪð kɑːrd/",
+    "Please scan the QR code": "/pliːz skæn ðə kjuː ɑːr koʊd/",
+    "I don't have that": "/aɪ doʊnt hæv ðæt/",
+    "Sold out": "/soʊld aʊt/",
+    "How much is this?": "/haʊ mʌtʃ ɪz ðɪs/",
+    "Thank you very much": "/θæŋk juː ˈvɛri mʌtʃ/",
+    "Please wait a moment": "/pliːz weɪt ə ˈmoʊmənt/",
+    "Do you need a bag?": "/duː juː niːd ə bæg/",
+    "Here is your change": "/hɪr ɪz jɔːr tʃeɪndʒ/",
+}
 
 assert [t for t, _ in LESSONS] == P.PHRASES, "LESSONS harus sama dengan penilai.PHRASES"
 
@@ -66,6 +78,9 @@ class App:
         self.lbl_meaning.pack(pady=(8, 0))
         self.lbl_target = tk.Label(root, text="", font=("Arial", 22, "bold"), wraplength=620)
         self.lbl_target.pack(pady=(4, 12))
+
+        self.lbl_pron = tk.Label(root, text="", font=("Arial", 13), fg="#1565c0")
+        self.lbl_pron.pack(pady=(0, 8))
 
         self.lbl_live = tk.Label(root, text="(tekan Mulai merekam lalu bicara)", font=("Arial", 12),
                                  fg="grey", wraplength=620)
@@ -110,6 +125,7 @@ class App:
         self.lbl_progress.config(text=f"Kalimat {self.idx + 1} dari {len(LESSONS)}")
         self.lbl_meaning.config(text=meaning)
         self.lbl_target.config(text=target)
+        self.lbl_pron.config(text=PRONUNCIATION.get(target, ""))
         self.reset_attempt()
 
     def reset_attempt(self):
@@ -123,7 +139,6 @@ class App:
         self.btn_rec.config(text="Mulai merekam", state="normal")
         self.btn_retry.config(state="disabled")
         self.btn_next.config(state="disabled")
-        self.btn_speak.config(state="disabled")
 
     def set_result_text(self, pairs):
         self.txt_result.config(state="normal")
@@ -205,7 +220,7 @@ class App:
             self.lbl_verdict.config(text="Tidak terdengar, coba lagi", fg="#c62828")
             self.lbl_detail.config(text="")
         else:
-            # Seluruh rekaman diproses ulang setelah berhenti (offline): fitur MFCC manual + DTW + dua pembacaan Vosk
+            
             a = P.analyze(self.vosk, audio, self.templates)
             tier, score, pairs = P.judge(target, a["free"], a["label"], a["gap"])
             # transkripsi yang ditampilkan = transkripsi BEBAS (norm, tanpa grammar); kata merah = tidak terdengar benar
@@ -243,8 +258,12 @@ class App:
 
     def _say(self, text):
         try:
-            engine = pyttsx3.init()          # dibuat di thread ini agar aman
-            engine.setProperty("rate", 150)
+            engine = pyttsx3.init()
+            engine.setProperty("rate", 140)
+            for v in engine.getProperty("voices"):
+                if "Zira" in v.name or "David" in v.name:
+                    engine.setProperty("voice", v.id)
+                    break
             engine.say(text)
             engine.runAndWait()
         except Exception:
